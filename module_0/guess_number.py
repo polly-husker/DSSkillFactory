@@ -40,4 +40,26 @@ def guess_number(number):
     return count
 
 
-score_game(guess_number)
+def guess_number_norand(number):
+    '''быстрее угадываем число (половинное деление) - проверяем число Х
+    в середине допустимого интервала; изменяем интревал, отбрасывая
+    ту половину, которая не подходит с учетом
+    ответа "загаданное число меньше/больше Х"
+    '''
+    count = 1
+    min_border = 1
+    max_border = 101
+    predict = int((min_border+max_border)/2)
+
+    while number != predict:
+        if number > predict:
+            min_border = predict
+        else:
+            max_border = predict
+        predict = int((min_border+max_border)/2)
+        count += 1
+
+    return count
+
+
+score_game(guess_number_norand)
