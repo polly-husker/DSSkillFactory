@@ -17,3 +17,8 @@ ID_TA — идентификатор ресторана в базе данных
 Ноутбук, представленный в папке скачан непосредственно с платформы, без правок (не запустится  без смены путей к файлам, файлы одноименные представлены в папке :/ )
 
 username на Kaggle : polinaseliukh (Display name Polina Seliukh)
+
+ссылка на соревнование
+https://www.kaggle.com/t/18c4256240c04280890e771864c63173
+https://www.kaggle.com/c/sf-dst-restaurant-rating
+
