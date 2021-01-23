@@ -1,0 +1,4767 @@
+[
+  {
+    "entities": [
+      {
+        "count": 661,
+        "cyrillic_name": "100",
+        "id": "100",
+        "itemFilterParams": {
+          "model": "100"
+        },
+        "name": "100",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "100",
+            "semantic_url": "100",
+            "no_model": true
+          },
+          {
+            "id": "9265090",
+            "name": "S4",
+            "semantic_url": "s4",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 1968,
+        "year_to": 1994
+      },
+      {
+        "count": 16,
+        "cyrillic_name": "200",
+        "id": "200",
+        "itemFilterParams": {
+          "model": "200"
+        },
+        "name": "200",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1979,
+        "year_to": 1991
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "50",
+        "id": "50",
+        "itemFilterParams": {
+          "model": "50"
+        },
+        "name": "50",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1974,
+        "year_to": 1978
+      },
+      {
+        "count": 709,
+        "cyrillic_name": "80",
+        "id": "80",
+        "itemFilterParams": {
+          "model": "80"
+        },
+        "name": "80",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "80",
+            "semantic_url": "80",
+            "no_model": true
+          },
+          {
+            "id": "9265261",
+            "name": "RS2",
+            "semantic_url": "rs2",
+            "no_model": false
+          },
+          {
+            "id": "9265262",
+            "name": "S2",
+            "semantic_url": "s2",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 1972,
+        "year_to": 1996
+      },
+      {
+        "count": 30,
+        "cyrillic_name": "90",
+        "id": "90",
+        "itemFilterParams": {
+          "model": "90"
+        },
+        "name": "90",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1984,
+        "year_to": 1995
+      },
+      {
+        "count": 1,
+        "cyrillic_name": "920",
+        "id": "920",
+        "itemFilterParams": {
+          "model": "920"
+        },
+        "name": "920",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1938,
+        "year_to": 1940
+      },
+      {
+        "count": 66,
+        "cyrillic_name": "А1",
+        "id": "A1",
+        "itemFilterParams": {
+          "model": "A1"
+        },
+        "name": "A1",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2010,
+        "year_to": 2021
+      },
+      {
+        "count": 5,
+        "cyrillic_name": "А2",
+        "id": "A2",
+        "itemFilterParams": {
+          "model": "A2"
+        },
+        "name": "A2",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2000,
+        "year_to": 2007
+      },
+      {
+        "count": 534,
+        "cyrillic_name": "А3",
+        "id": "A3",
+        "itemFilterParams": {
+          "model": "A3"
+        },
+        "name": "A3",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "A3",
+            "semantic_url": "a3",
+            "no_model": true
+          },
+          {
+            "id": "9264586",
+            "name": "e-tron",
+            "semantic_url": "e_tron",
+            "no_model": false
+          },
+          {
+            "id": "9264587",
+            "name": "g-tron",
+            "semantic_url": "g_tron",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 1996,
+        "year_to": 2021
+      },
+      {
+        "count": 1862,
+        "cyrillic_name": "А4",
+        "id": "A4",
+        "itemFilterParams": {
+          "model": "A4"
+        },
+        "name": "A4",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1994,
+        "year_to": 2021
+      },
+      {
+        "count": 73,
+        "cyrillic_name": "А4 Олроуд",
+        "id": "A4_ALLROAD",
+        "itemFilterParams": {
+          "model": "A4_ALLROAD"
+        },
+        "name": "A4 allroad",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2009,
+        "year_to": 2021
+      },
+      {
+        "count": 562,
+        "cyrillic_name": "А5",
+        "id": "A5",
+        "itemFilterParams": {
+          "model": "A5"
+        },
+        "name": "A5",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "A5",
+            "semantic_url": "a5",
+            "no_model": true
+          },
+          {
+            "id": "11899784",
+            "name": "g-tron",
+            "semantic_url": "g_tron",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "count": 2378,
+        "cyrillic_name": "А6",
+        "id": "A6",
+        "itemFilterParams": {
+          "model": "A6"
+        },
+        "name": "A6",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1994,
+        "year_to": 2021
+      },
+      {
+        "count": 205,
+        "cyrillic_name": "А6 Олроуд",
+        "id": "ALLROAD",
+        "itemFilterParams": {
+          "model": "ALLROAD"
+        },
+        "name": "A6 allroad",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "count": 200,
+        "cyrillic_name": "А7",
+        "id": "A7",
+        "itemFilterParams": {
+          "model": "A7"
+        },
+        "name": "A7",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2010,
+        "year_to": 2021
+      },
+      {
+        "count": 504,
+        "cyrillic_name": "А8",
+        "id": "A8",
+        "itemFilterParams": {
+          "model": "A8"
+        },
+        "name": "A8",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "A8",
+            "semantic_url": "a8",
+            "no_model": true
+          },
+          {
+            "id": "11902990",
+            "name": "Long",
+            "semantic_url": "long",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 1994,
+        "year_to": 2021
+      },
+      {
+        "count": 1,
+        "cyrillic_name": "Кабриолет",
+        "id": "CABRIOLET",
+        "itemFilterParams": {
+          "model": "CABRIOLET"
+        },
+        "name": "Cabriolet",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1991,
+        "year_to": 2000
+      },
+      {
+        "count": 10,
+        "cyrillic_name": "Купе",
+        "id": "COUPE",
+        "itemFilterParams": {
+          "model": "COUPE"
+        },
+        "name": "Coupe",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1980,
+        "year_to": 1996
+      },
+      {
+        "count": 52,
+        "cyrillic_name": "И-трон",
+        "id": "E_TRON",
+        "itemFilterParams": {
+          "model": "E_TRON"
+        },
+        "name": "e-tron",
+        "nameplates": [
+          {
+            "id": "13328346",
+            "name": "50",
+            "semantic_url": "50",
+            "no_model": false
+          },
+          {
+            "id": "12649936",
+            "name": "55",
+            "semantic_url": "55",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "И-трон Эс",
+        "id": "E_TRON_S",
+        "itemFilterParams": {
+          "model": "E_TRON_S"
+        },
+        "name": "e-tron S",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2020,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "И-трон Эс Спортбэк",
+        "id": "E_TRON_S_SPORTBACK",
+        "itemFilterParams": {
+          "model": "E_TRON_S_SPORTBACK"
+        },
+        "name": "e-tron S Sportback",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2020,
+        "year_to": 2021
+      },
+      {
+        "count": 1,
+        "cyrillic_name": "И-трон Спортбэк",
+        "id": "E_TRON_SPORTBACK",
+        "itemFilterParams": {
+          "model": "E_TRON_SPORTBACK"
+        },
+        "name": "e-tron Sportback",
+        "nameplates": [
+          {
+            "id": "12901438",
+            "name": "50",
+            "semantic_url": "50",
+            "no_model": false
+          },
+          {
+            "id": "12901440",
+            "name": "55",
+            "semantic_url": "55",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "NSU RO 80",
+        "id": "NSU_RO_80",
+        "itemFilterParams": {
+          "model": "NSU_RO_80"
+        },
+        "name": "NSU RO 80",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1967,
+        "year_to": 1977
+      },
+      {
+        "count": 1,
+        "cyrillic_name": "Ку2",
+        "id": "Q2",
+        "itemFilterParams": {
+          "model": "Q2"
+        },
+        "name": "Q2",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2016,
+        "year_to": 2021
+      },
+      {
+        "count": 382,
+        "cyrillic_name": "Ку3",
+        "id": "Q3",
+        "itemFilterParams": {
+          "model": "Q3"
+        },
+        "name": "Q3",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2011,
+        "year_to": 2021
+      },
+      {
+        "count": 36,
+        "cyrillic_name": "Ку3 Спортбек",
+        "id": "Q3_SPORTBACK",
+        "itemFilterParams": {
+          "model": "Q3_SPORTBACK"
+        },
+        "name": "Q3 Sportback",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "count": 754,
+        "cyrillic_name": "Ку5",
+        "id": "Q5",
+        "itemFilterParams": {
+          "model": "Q5"
+        },
+        "name": "Q5",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2008,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "Кью5 Спортбек",
+        "id": "Q5_SPORTBACK",
+        "itemFilterParams": {
+          "model": "Q5_SPORTBACK"
+        },
+        "name": "Q5 Sportback",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2020,
+        "year_to": 2021
+      },
+      {
+        "count": 990,
+        "cyrillic_name": "Ку7",
+        "id": "Q7",
+        "itemFilterParams": {
+          "model": "Q7"
+        },
+        "name": "Q7",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "count": 127,
+        "cyrillic_name": "Ку8",
+        "id": "Q8",
+        "itemFilterParams": {
+          "model": "Q8"
+        },
+        "name": "Q8",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "Кватро",
+        "id": "QUATTRO",
+        "itemFilterParams": {
+          "model": "QUATTRO"
+        },
+        "name": "Quattro",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1980,
+        "year_to": 1991
+      },
+      {
+        "count": 5,
+        "cyrillic_name": "Р8",
+        "id": "R8",
+        "itemFilterParams": {
+          "model": "R8"
+        },
+        "name": "R8",
+        "nameplates": [
+          {
+            "id": "-1",
+            "name": "R8",
+            "semantic_url": "r8",
+            "no_model": true
+          },
+          {
+            "id": "9265208",
+            "name": "GT",
+            "semantic_url": "gt",
+            "no_model": false
+          }
+        ],
+        "popular": false,
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "ЭР8 ЛМП",
+        "id": "R8_LMP",
+        "itemFilterParams": {
+          "model": "R8_LMP"
+        },
+        "name": "R8 LMP",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2000,
+        "year_to": 2005
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "RS2",
+        "id": "RS2",
+        "itemFilterParams": {
+          "model": "RS2"
+        },
+        "name": "RS 2",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1993,
+        "year_to": 1995
+      },
+      {
+        "count": 5,
+        "cyrillic_name": "РС3",
+        "id": "RS3",
+        "itemFilterParams": {
+          "model": "RS3"
+        },
+        "name": "RS 3",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2011,
+        "year_to": 2021
+      },
+      {
+        "count": 5,
+        "cyrillic_name": "РС4",
+        "id": "RS4",
+        "itemFilterParams": {
+          "model": "RS4"
+        },
+        "name": "RS 4",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "count": 15,
+        "cyrillic_name": "РС5",
+        "id": "RS5",
+        "itemFilterParams": {
+          "model": "RS5"
+        },
+        "name": "RS 5",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2010,
+        "year_to": 2021
+      },
+      {
+        "count": 15,
+        "cyrillic_name": "РС6",
+        "id": "RS6",
+        "itemFilterParams": {
+          "model": "RS6"
+        },
+        "name": "RS 6",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2002,
+        "year_to": 2021
+      },
+      {
+        "count": 13,
+        "cyrillic_name": "РС7",
+        "id": "RS7",
+        "itemFilterParams": {
+          "model": "RS7"
+        },
+        "name": "RS 7",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2013,
+        "year_to": 2021
+      },
+      {
+        "count": 10,
+        "cyrillic_name": "РС Ку3",
+        "id": "RSQ3",
+        "itemFilterParams": {
+          "model": "RSQ3"
+        },
+        "name": "RS Q3",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2013,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "РС Ку3 Спортбек",
+        "id": "RS_Q3_SPORTBACK",
+        "itemFilterParams": {
+          "model": "RS_Q3_SPORTBACK"
+        },
+        "name": "RS Q3 Sportback",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "РС Ку8",
+        "id": "RS_Q8",
+        "itemFilterParams": {
+          "model": "RS_Q8"
+        },
+        "name": "RS Q8",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "S1",
+        "id": "S1",
+        "itemFilterParams": {
+          "model": "S1"
+        },
+        "name": "S1",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2014,
+        "year_to": 2018
+      },
+      {
+        "count": 1,
+        "cyrillic_name": "S2",
+        "id": "S2",
+        "itemFilterParams": {
+          "model": "S2"
+        },
+        "name": "S2",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1990,
+        "year_to": 1995
+      },
+      {
+        "count": 8,
+        "cyrillic_name": "S3",
+        "id": "S3",
+        "itemFilterParams": {
+          "model": "S3"
+        },
+        "name": "S3",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "count": 14,
+        "cyrillic_name": "S4",
+        "id": "S4",
+        "itemFilterParams": {
+          "model": "S4"
+        },
+        "name": "S4",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1997,
+        "year_to": 2021
+      },
+      {
+        "count": 29,
+        "cyrillic_name": "S5",
+        "id": "S5",
+        "itemFilterParams": {
+          "model": "S5"
+        },
+        "name": "S5",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "count": 24,
+        "cyrillic_name": "S6",
+        "id": "S6",
+        "itemFilterParams": {
+          "model": "S6"
+        },
+        "name": "S6",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1994,
+        "year_to": 2021
+      },
+      {
+        "count": 9,
+        "cyrillic_name": "S7",
+        "id": "S7",
+        "itemFilterParams": {
+          "model": "S7"
+        },
+        "name": "S7",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2012,
+        "year_to": 2021
+      },
+      {
+        "count": 25,
+        "cyrillic_name": "S8",
+        "id": "S8",
+        "itemFilterParams": {
+          "model": "S8"
+        },
+        "name": "S8",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1996,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "ску2",
+        "id": "SQ2",
+        "itemFilterParams": {
+          "model": "SQ2"
+        },
+        "name": "SQ2",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "count": 4,
+        "cyrillic_name": "ску5",
+        "id": "SQ5",
+        "itemFilterParams": {
+          "model": "SQ5"
+        },
+        "name": "SQ5",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2013,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "ЭсКью5 Спортбек",
+        "id": "SQ5_SPORTBACK",
+        "itemFilterParams": {
+          "model": "SQ5_SPORTBACK"
+        },
+        "name": "SQ5 Sportback",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2020,
+        "year_to": 2021
+      },
+      {
+        "count": 24,
+        "cyrillic_name": "ску7",
+        "id": "SQ7",
+        "itemFilterParams": {
+          "model": "SQ7"
+        },
+        "name": "SQ7",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2016,
+        "year_to": 2021
+      },
+      {
+        "count": 28,
+        "cyrillic_name": "ску8",
+        "id": "SQ8",
+        "itemFilterParams": {
+          "model": "SQ8"
+        },
+        "name": "SQ8",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "count": 79,
+        "cyrillic_name": "ТТ",
+        "id": "TT",
+        "itemFilterParams": {
+          "model": "TT"
+        },
+        "name": "TT",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1998,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "ТТ РС",
+        "id": "TT_RS",
+        "itemFilterParams": {
+          "model": "TT_RS"
+        },
+        "name": "TT RS",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2009,
+        "year_to": 2021
+      },
+      {
+        "count": 5,
+        "cyrillic_name": "ТТС",
+        "id": "TTS",
+        "itemFilterParams": {
+          "model": "TTS"
+        },
+        "name": "TTS",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "count": 0,
+        "cyrillic_name": "Тип-Р",
+        "id": "TYP_R",
+        "itemFilterParams": {
+          "model": "TYP_R"
+        },
+        "name": "Typ R",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1927,
+        "year_to": 1929
+      },
+      {
+        "count": 6,
+        "cyrillic_name": "V8",
+        "id": "V8",
+        "itemFilterParams": {
+          "model": "V8"
+        },
+        "name": "V8",
+        "nameplates": [],
+        "popular": false,
+        "year_from": 1988,
+        "year_to": 1994
+      }
+    ],
+    "levelFilterParams": {
+      "mark": "AUDI"
+    },
+    "level": "MODEL_LEVEL",
+    "meta_level": "MODEL_LEVEL",
+    "mark": {
+      "id": "AUDI",
+      "name": "Audi"
+    }
+  },
+  {
+    "entities": [
+      {
+        "id": "AC",
+        "count": 6,
+        "cyrillic_name": "АС",
+        "popular": false,
+        "name": "AC",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940bdf8f1c741e5f67b888c0a8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940bdf8f1c741e5f67b888c0a8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AC"
+        },
+        "year_from": 1965,
+        "year_to": 2015
+      },
+      {
+        "id": "ACURA",
+        "count": 139,
+        "cyrillic_name": "Акура",
+        "popular": false,
+        "name": "Acura",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609ef2c1814bed7490951959d499/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609ef2c1814bed7490951959d499/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ACURA"
+        },
+        "year_from": 1985,
+        "year_to": 2021
+      },
+      {
+        "id": "ADLER",
+        "count": 4,
+        "cyrillic_name": "Адлер",
+        "popular": false,
+        "name": "Adler",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ff9b431ddbfc2ce0959160f4e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ff9b431ddbfc2ce0959160f4e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ADLER"
+        },
+        "year_from": 1934,
+        "year_to": 1941
+      },
+      {
+        "id": "ALFA_ROMEO",
+        "count": 134,
+        "cyrillic_name": "Альфа Ромео",
+        "popular": false,
+        "name": "Alfa Romeo",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609ef30f4d8f80c71899add8baf6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609ef30f4d8f80c71899add8baf6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ALFA_ROMEO"
+        },
+        "year_from": 1927,
+        "year_to": 2021
+      },
+      {
+        "id": "ALPINA",
+        "count": 6,
+        "cyrillic_name": "Альпина",
+        "popular": false,
+        "name": "Alpina",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071ac342f967a0343c6e2b6ad/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071ac342f967a0343c6e2b6ad/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ALPINA"
+        },
+        "year_from": 1978,
+        "year_to": 2021
+      },
+      {
+        "id": "ALPINE",
+        "count": 0,
+        "cyrillic_name": "Альпин",
+        "popular": false,
+        "name": "Alpine",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975825b64c23e8eee46c9edee8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975825b64c23e8eee46c9edee8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ALPINE"
+        },
+        "year_from": 1961,
+        "year_to": 2021
+      },
+      {
+        "id": "AM_GENERAL",
+        "count": 0,
+        "cyrillic_name": "АМ Дженерал",
+        "popular": false,
+        "name": "AM General",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f2173cf3c6c81b604ff7cf0c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f2173cf3c6c81b604ff7cf0c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AM_GENERAL"
+        },
+        "year_from": 1984,
+        "year_to": 2006
+      },
+      {
+        "id": "AMC",
+        "count": 2,
+        "cyrillic_name": "АМС",
+        "popular": false,
+        "name": "AMC",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091249f4d9021eec76f4a7441e9/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091249f4d9021eec76f4a7441e9/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AMC"
+        },
+        "year_from": 1974,
+        "year_to": 1987
+      },
+      {
+        "id": "APAL",
+        "count": 0,
+        "cyrillic_name": "Апал",
+        "popular": false,
+        "name": "Apal",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016fae389602083ebd0df1d6e6975a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016fae389602083ebd0df1d6e6975a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "APAL"
+        },
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "id": "ARIEL",
+        "count": 2,
+        "cyrillic_name": "Ариэль",
+        "popular": false,
+        "name": "Ariel",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160980d524da226c8f6ac41f035af/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160980d524da226c8f6ac41f035af/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ARIEL"
+        },
+        "year_from": 1996,
+        "year_to": 2021
+      },
+      {
+        "id": "ARO",
+        "count": 7,
+        "cyrillic_name": "Аро",
+        "popular": false,
+        "name": "Aro",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d6a4f4c898f82eb77d617a7f2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d6a4f4c898f82eb77d617a7f2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ARO"
+        },
+        "year_from": 1972,
+        "year_to": 2006
+      },
+      {
+        "id": "ASIA",
+        "count": 8,
+        "cyrillic_name": "Эйша",
+        "popular": false,
+        "name": "Asia",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160925046029a6b89f9a69c6472fc/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160925046029a6b89f9a69c6472fc/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ASIA"
+        },
+        "year_from": 1987,
+        "year_to": 2003
+      },
+      {
+        "id": "ASTON_MARTIN",
+        "count": 23,
+        "cyrillic_name": "Астон Мартин",
+        "popular": false,
+        "name": "Aston Martin",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b55be895f62f1fbf01b17dab/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b55be895f62f1fbf01b17dab/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ASTON_MARTIN"
+        },
+        "year_from": 1963,
+        "year_to": 2021
+      },
+      {
+        "id": "AUDI",
+        "count": 10484,
+        "cyrillic_name": "Ауди",
+        "popular": true,
+        "name": "Audi",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001651f4baeb0ee7d9d292ce0db5e9a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001651f4baeb0ee7d9d292ce0db5e9a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AUDI"
+        },
+        "year_from": 1927,
+        "year_to": 2021
+      },
+      {
+        "id": "AURUS",
+        "count": 0,
+        "cyrillic_name": "Аурус",
+        "popular": false,
+        "name": "Aurus",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001634f68fbd28165744b76b1b766f2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001634f68fbd28165744b76b1b766f2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AURUS"
+        },
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "id": "AUSTIN",
+        "count": 3,
+        "cyrillic_name": "Остин",
+        "popular": false,
+        "name": "Austin",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609849b4c5cac332c5db3e786b3b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609849b4c5cac332c5db3e786b3b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AUSTIN"
+        },
+        "year_from": 1958,
+        "year_to": 1997
+      },
+      {
+        "id": "AUSTIN_HEALEY",
+        "count": 1,
+        "cyrillic_name": "Остин Хэйли",
+        "popular": false,
+        "name": "Austin Healey",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016566460c0a7c82f982156b8ef036/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016566460c0a7c82f982156b8ef036/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AUSTIN_HEALEY"
+        },
+        "year_from": 1956,
+        "year_to": 1967
+      },
+      {
+        "id": "AUTOBIANCHI",
+        "count": 0,
+        "cyrillic_name": "Аутобьянки",
+        "popular": false,
+        "name": "Autobianchi",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e26364eb31019dddabf443b0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e26364eb31019dddabf443b0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AUTOBIANCHI"
+        },
+        "year_from": 1969,
+        "year_to": 1986
+      },
+      {
+        "id": "BAIC",
+        "count": 0,
+        "cyrillic_name": "БАИК",
+        "popular": false,
+        "name": "BAIC",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e1ada957b3487ba789394d62/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e1ada957b3487ba789394d62/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BAIC"
+        },
+        "year_from": 1964,
+        "year_to": 2021
+      },
+      {
+        "id": "BAJAJ",
+        "count": 0,
+        "cyrillic_name": "Баджадж",
+        "popular": false,
+        "name": "Bajaj",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609447ba6c4548f853da6bb6b7b2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609447ba6c4548f853da6bb6b7b2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BAJAJ"
+        },
+        "year_from": 2016,
+        "year_to": 2021
+      },
+      {
+        "id": "BALTIJAS_DZIPS",
+        "count": 0,
+        "cyrillic_name": "Балтиас Джипс",
+        "popular": false,
+        "name": "Baltijas Dzips",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090e9549aa914ab7e478b027915/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090e9549aa914ab7e478b027915/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BALTIJAS_DZIPS"
+        },
+        "year_from": 1998,
+        "year_to": 2001
+      },
+      {
+        "id": "BATMOBILE",
+        "count": 0,
+        "cyrillic_name": "Бэтмобиль",
+        "popular": false,
+        "name": "Batmobile",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609500ed06b782833447df2dd960/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609500ed06b782833447df2dd960/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BATMOBILE"
+        },
+        "year_from": 1989,
+        "year_to": 2018
+      },
+      {
+        "id": "BENTLEY",
+        "count": 168,
+        "cyrillic_name": "Бентли",
+        "popular": false,
+        "name": "Bentley",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160953df007e6ea9716ba3f57848f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160953df007e6ea9716ba3f57848f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BENTLEY"
+        },
+        "year_from": 1946,
+        "year_to": 2021
+      },
+      {
+        "id": "BERTONE",
+        "count": 0,
+        "cyrillic_name": "Бертоне",
+        "popular": false,
+        "name": "Bertone",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160953d45d08bd96ccd829f7de005/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160953d45d08bd96ccd829f7de005/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BERTONE"
+        },
+        "year_from": 1989,
+        "year_to": 1995
+      },
+      {
+        "id": "BILENKIN",
+        "count": 0,
+        "cyrillic_name": "Биленкин",
+        "popular": false,
+        "name": "Bilenkin",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609848a49ee5b83e9cb308899e98/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609848a49ee5b83e9cb308899e98/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BILENKIN"
+        },
+        "year_from": 2015,
+        "year_to": 2016
+      },
+      {
+        "id": "BIO_AUTO",
+        "count": 0,
+        "cyrillic_name": "Био авто",
+        "popular": false,
+        "name": "Bio auto",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001736b4b1699d250f27401a1bc196a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001736b4b1699d250f27401a1bc196a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BIO_AUTO"
+        },
+        "year_from": 2009,
+        "year_to": 2020
+      },
+      {
+        "id": "BITTER",
+        "count": 0,
+        "cyrillic_name": "Биттер",
+        "popular": false,
+        "name": "Bitter",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092ca3db1ff56d6b59657433da7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092ca3db1ff56d6b59657433da7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BITTER"
+        },
+        "year_from": 1973,
+        "year_to": 1988
+      },
+      {
+        "id": "BMW",
+        "count": 15237,
+        "cyrillic_name": "БМВ",
+        "popular": true,
+        "name": "BMW",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000170a99124c3a521a92b8cd4846660/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000170a99124c3a521a92b8cd4846660/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BMW"
+        },
+        "year_from": 1927,
+        "year_to": 2021
+      },
+      {
+        "id": "BORGWARD",
+        "count": 1,
+        "cyrillic_name": "Боргвард",
+        "popular": false,
+        "name": "Borgward",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016fae39ced88fa254c314f98690e0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016fae39ced88fa254c314f98690e0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BORGWARD"
+        },
+        "year_from": 1934,
+        "year_to": 1942
+      },
+      {
+        "id": "BRABUS",
+        "count": 1,
+        "cyrillic_name": "Брабус",
+        "popular": false,
+        "name": "Brabus",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a535c00055b6ddc24e257d43/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a535c00055b6ddc24e257d43/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BRABUS"
+        },
+        "year_from": 1991,
+        "year_to": 2013
+      },
+      {
+        "id": "BRILLIANCE",
+        "count": 90,
+        "cyrillic_name": "Бриллианс",
+        "popular": false,
+        "name": "Brilliance",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091251e72df89dc26292eb85b1b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091251e72df89dc26292eb85b1b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BRILLIANCE"
+        },
+        "year_from": 2004,
+        "year_to": 2021
+      },
+      {
+        "id": "BRISTOL",
+        "count": 0,
+        "cyrillic_name": "Бристоль",
+        "popular": false,
+        "name": "Bristol",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160919e32b15cf69b82783742ac86/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160919e32b15cf69b82783742ac86/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BRISTOL"
+        },
+        "year_from": 1993,
+        "year_to": 2011
+      },
+      {
+        "id": "BUFORI",
+        "count": 0,
+        "cyrillic_name": "Буфори",
+        "popular": false,
+        "name": "Bufori",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953df43286c20b763721df04ff/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953df43286c20b763721df04ff/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BUFORI"
+        },
+        "year_from": 2004,
+        "year_to": 2021
+      },
+      {
+        "id": "BUGATTI",
+        "count": 1,
+        "cyrillic_name": "Бугатти",
+        "popular": false,
+        "name": "Bugatti",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093cf388dfa6f0fe7fe4c09cacf/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093cf388dfa6f0fe7fe4c09cacf/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BUGATTI"
+        },
+        "year_from": 1932,
+        "year_to": 2021
+      },
+      {
+        "id": "BUICK",
+        "count": 46,
+        "cyrillic_name": "Бьюик",
+        "popular": false,
+        "name": "Buick",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092502127d96e6577b350891c1f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092502127d96e6577b350891c1f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BUICK"
+        },
+        "year_from": 1936,
+        "year_to": 2021
+      },
+      {
+        "id": "BYD",
+        "count": 143,
+        "cyrillic_name": "БИД",
+        "popular": false,
+        "name": "BYD",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093cf67dbdac9c532de6ec406b1/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093cf67dbdac9c532de6ec406b1/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BYD"
+        },
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "id": "BYVIN",
+        "count": 0,
+        "cyrillic_name": "Бивин",
+        "popular": false,
+        "name": "Byvin",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160980ddc852bc7587dc24ab28984/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160980ddc852bc7587dc24ab28984/dealer_logo",
+        "itemFilterParams": {
+          "mark": "BYVIN"
+        },
+        "year_from": 2011,
+        "year_to": 2016
+      },
+      {
+        "id": "CADILLAC",
+        "count": 820,
+        "cyrillic_name": "Кадиллак",
+        "popular": true,
+        "name": "Cadillac",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ffad88b074c4a532dcb3b1fe7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ffad88b074c4a532dcb3b1fe7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CADILLAC"
+        },
+        "year_from": 1940,
+        "year_to": 2021
+      },
+      {
+        "id": "CALLAWAY",
+        "count": 0,
+        "cyrillic_name": "Каллавей",
+        "popular": false,
+        "name": "Callaway",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000160975abe43d8d96295cacbff8b30/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000160975abe43d8d96295cacbff8b30/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CALLAWAY"
+        },
+        "year_from": 1998,
+        "year_to": 2003
+      },
+      {
+        "id": "CARBODIES",
+        "count": 0,
+        "cyrillic_name": "Карбодис",
+        "popular": false,
+        "name": "Carbodies",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160957a9eef8b880d69f5cdff802c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160957a9eef8b880d69f5cdff802c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CARBODIES"
+        },
+        "year_from": 1982,
+        "year_to": 1995
+      },
+      {
+        "id": "CATERHAM",
+        "count": 0,
+        "cyrillic_name": "Катерхем",
+        "popular": false,
+        "name": "Caterham",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b588101dbef69c9e6a80ee01/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b588101dbef69c9e6a80ee01/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CATERHAM"
+        },
+        "year_from": 1992,
+        "year_to": 2021
+      },
+      {
+        "id": "CHANA",
+        "count": 0,
+        "cyrillic_name": "Чана",
+        "popular": false,
+        "name": "Chana",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160b325f8f7a3a40c06d73826c200/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160b325f8f7a3a40c06d73826c200/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHANA"
+        },
+        "year_from": 2006,
+        "year_to": 2011
+      },
+      {
+        "id": "CHANGAN",
+        "count": 596,
+        "cyrillic_name": "Чанган",
+        "popular": false,
+        "name": "Changan",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c2640a591c6c7f2b0d1136e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c2640a591c6c7f2b0d1136e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHANGAN"
+        },
+        "year_from": 2006,
+        "year_to": 2021
+      },
+      {
+        "id": "CHANGFENG",
+        "count": 1,
+        "cyrillic_name": "Чанфэн",
+        "popular": false,
+        "name": "ChangFeng",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016092ca2ae56ab151cd54596ce61e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016092ca2ae56ab151cd54596ce61e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHANGFENG"
+        },
+        "year_from": 2007,
+        "year_to": 2014
+      },
+      {
+        "id": "CHANGHE",
+        "count": 2,
+        "cyrillic_name": "Чанхэ",
+        "popular": false,
+        "name": "Changhe",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016fae33ee6d3b3e22008ac82aea78/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016fae33ee6d3b3e22008ac82aea78/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHANGHE"
+        },
+        "year_from": 2003,
+        "year_to": 2016
+      },
+      {
+        "id": "CHERY",
+        "count": 3402,
+        "cyrillic_name": "Чери",
+        "popular": true,
+        "name": "Chery",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d6a33ef13e78acd29b0394db5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d6a33ef13e78acd29b0394db5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHERY"
+        },
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "id": "CHERYEXEED",
+        "count": 46,
+        "cyrillic_name": "Чери Эксид",
+        "popular": false,
+        "name": "CHERYEXEED",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000017532361fc0639b1fd7d445c883ab/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000017532361fc0639b1fd7d445c883ab/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHERYEXEED"
+        },
+        "year_from": 2020,
+        "year_to": 2021
+      },
+      {
+        "id": "CHEVROLET",
+        "count": 14321,
+        "cyrillic_name": "Шевроле",
+        "popular": true,
+        "name": "Chevrolet",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d5630f090a35531e87bc5fc0e3/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d5630f090a35531e87bc5fc0e3/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHEVROLET"
+        },
+        "year_from": 1933,
+        "year_to": 2021
+      },
+      {
+        "id": "CHRYSLER",
+        "count": 674,
+        "cyrillic_name": "Крайслер",
+        "popular": true,
+        "name": "Chrysler",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c8bb24ec042b59be9d5e590/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c8bb24ec042b59be9d5e590/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CHRYSLER"
+        },
+        "year_from": 1926,
+        "year_to": 2021
+      },
+      {
+        "id": "CITROEN",
+        "count": 2571,
+        "cyrillic_name": "Ситроен",
+        "popular": true,
+        "name": "Citroen",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160944827d8c0de9a36a30a3fe161/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160944827d8c0de9a36a30a3fe161/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CITROEN"
+        },
+        "year_from": 1934,
+        "year_to": 2021
+      },
+      {
+        "id": "CIZETA",
+        "count": 0,
+        "cyrillic_name": "Чизета",
+        "popular": false,
+        "name": "Cizeta",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e219439838d14929ab559f68/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e219439838d14929ab559f68/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CIZETA"
+        },
+        "year_from": 1991,
+        "year_to": 1995
+      },
+      {
+        "id": "COGGIOLA",
+        "count": 0,
+        "cyrillic_name": "Коджиола",
+        "popular": false,
+        "name": "Coggiola",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e1f839a306fde78689f2fe0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e1f839a306fde78689f2fe0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "COGGIOLA"
+        },
+        "year_from": 2000,
+        "year_to": 2016
+      },
+      {
+        "id": "CORD",
+        "count": 0,
+        "cyrillic_name": "Корд",
+        "popular": false,
+        "name": "Cord",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016754be415c3bb710b90163baf0b0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016754be415c3bb710b90163baf0b0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "CORD"
+        },
+        "year_from": 1929,
+        "year_to": 1932
+      },
+      {
+        "id": "DACIA",
+        "count": 41,
+        "cyrillic_name": "Дачия",
+        "popular": false,
+        "name": "Dacia",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a646a1ca44953d3217f56f6d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a646a1ca44953d3217f56f6d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DACIA"
+        },
+        "year_from": 1969,
+        "year_to": 2021
+      },
+      {
+        "id": "DADI",
+        "count": 1,
+        "cyrillic_name": "Дади",
+        "popular": false,
+        "name": "Dadi",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940b5c8410df4acbd891a92591/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940b5c8410df4acbd891a92591/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DADI"
+        },
+        "year_from": 2004,
+        "year_to": 2007
+      },
+      {
+        "id": "DAEWOO",
+        "count": 4976,
+        "cyrillic_name": "Дэу",
+        "popular": true,
+        "name": "Daewoo",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d69b3260a0f8e1040c6f3a7ac/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d69b3260a0f8e1040c6f3a7ac/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DAEWOO"
+        },
+        "year_from": 1981,
+        "year_to": 2016
+      },
+      {
+        "id": "DAIHATSU",
+        "count": 453,
+        "cyrillic_name": "Дайхатсу",
+        "popular": false,
+        "name": "Daihatsu",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094c4add6a05ee06f3333f03c28/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094c4add6a05ee06f3333f03c28/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DAIHATSU"
+        },
+        "year_from": 1951,
+        "year_to": 2021
+      },
+      {
+        "id": "DAIMLER",
+        "count": 4,
+        "cyrillic_name": "Даймлер",
+        "popular": false,
+        "name": "Daimler",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b5d5fc0c8e5ebd65f27b3d74/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b5d5fc0c8e5ebd65f27b3d74/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DAIMLER"
+        },
+        "year_from": 1959,
+        "year_to": 2009
+      },
+      {
+        "id": "DALLARA",
+        "count": 0,
+        "cyrillic_name": "Даллара",
+        "popular": false,
+        "name": "Dallara",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016ea799c095b34739022fec76df73/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016ea799c095b34739022fec76df73/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DALLARA"
+        },
+        "year_from": 2017,
+        "year_to": 2021
+      },
+      {
+        "id": "DATSUN",
+        "count": 1554,
+        "cyrillic_name": "Датсун",
+        "popular": false,
+        "name": "Datsun",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e19cff828b85e4003987defa/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e19cff828b85e4003987defa/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DATSUN"
+        },
+        "year_from": 1970,
+        "year_to": 2021
+      },
+      {
+        "id": "DE_TOMASO",
+        "count": 0,
+        "cyrillic_name": "Де Томазо",
+        "popular": false,
+        "name": "De Tomaso",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609394349ae92e774479557e725b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609394349ae92e774479557e725b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DE_TOMASO"
+        },
+        "year_from": 1964,
+        "year_to": 2002
+      },
+      {
+        "id": "DECO_RIDES",
+        "count": 0,
+        "cyrillic_name": "Деко Райдс",
+        "popular": false,
+        "name": "Deco Rides",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000172e59260e44203e59458ebf66549/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000172e59260e44203e59458ebf66549/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DECO_RIDES"
+        },
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "id": "DELAGE",
+        "count": 1,
+        "cyrillic_name": "Делаж",
+        "popular": false,
+        "name": "Delage",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609356f0031f1259cd5601994011/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609356f0031f1259cd5601994011/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DELAGE"
+        },
+        "year_from": 1930,
+        "year_to": 1940
+      },
+      {
+        "id": "DELOREAN",
+        "count": 0,
+        "cyrillic_name": "ДеЛориан",
+        "popular": false,
+        "name": "DeLorean",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a8407fa1be3f3dc7c7c3698/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a8407fa1be3f3dc7c7c3698/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DELOREAN"
+        },
+        "year_from": 1981,
+        "year_to": 1982
+      },
+      {
+        "id": "DERWAYS",
+        "count": 21,
+        "cyrillic_name": "Дервейс",
+        "popular": false,
+        "name": "Derways",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093cfa95a14deb3eda7cd848bb0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093cfa95a14deb3eda7cd848bb0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DERWAYS"
+        },
+        "year_from": 2004,
+        "year_to": 2008
+      },
+      {
+        "id": "DESOTO",
+        "count": 0,
+        "cyrillic_name": "Десото",
+        "popular": false,
+        "name": "DeSoto",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090727f628fab8ccf91615bf05d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090727f628fab8ccf91615bf05d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DESOTO"
+        },
+        "year_from": 1949,
+        "year_to": 1960
+      },
+      {
+        "id": "DKW",
+        "count": 2,
+        "cyrillic_name": "ДКВ",
+        "popular": false,
+        "name": "DKW",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016ad4820d86af77ec03aef477dbf7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016ad4820d86af77ec03aef477dbf7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DKW"
+        },
+        "year_from": 1953,
+        "year_to": 1955
+      },
+      {
+        "id": "DODGE",
+        "count": 879,
+        "cyrillic_name": "Додж",
+        "popular": true,
+        "name": "Dodge",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971db0337703e4054b24634e30/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971db0337703e4054b24634e30/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DODGE"
+        },
+        "year_from": 1937,
+        "year_to": 2021
+      },
+      {
+        "id": "DONGFENG",
+        "count": 65,
+        "cyrillic_name": "ДонгФенг",
+        "popular": false,
+        "name": "DongFeng",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160971d6ec7413036e49b83a62eea/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160971d6ec7413036e49b83a62eea/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DONGFENG"
+        },
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "id": "DONINVEST",
+        "count": 24,
+        "cyrillic_name": "Донинвест",
+        "popular": false,
+        "name": "Doninvest",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609500c68ede0debb422c2de5639/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609500c68ede0debb422c2de5639/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DONINVEST"
+        },
+        "year_from": 1998,
+        "year_to": 2002
+      },
+      {
+        "id": "DONKERVOORT",
+        "count": 0,
+        "cyrillic_name": "Донкервурт",
+        "popular": false,
+        "name": "Donkervoort",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609849569479fad847c9109663b5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609849569479fad847c9109663b5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DONKERVOORT"
+        },
+        "year_from": 1993,
+        "year_to": 2021
+      },
+      {
+        "id": "DS",
+        "count": 2,
+        "cyrillic_name": "ДС",
+        "popular": false,
+        "name": "DS",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d930c61f95085a0bd3863e3f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d930c61f95085a0bd3863e3f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DS"
+        },
+        "year_from": 2015,
+        "year_to": 2021
+      },
+      {
+        "id": "DW_HOWER",
+        "count": 27,
+        "cyrillic_name": "ДВ Ховер",
+        "popular": false,
+        "name": "DW Hower",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016189700ec8272fe371a193e4649b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016189700ec8272fe371a193e4649b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "DW_HOWER"
+        },
+        "year_from": 2017,
+        "year_to": 2019
+      },
+      {
+        "id": "E_CAR",
+        "count": 0,
+        "cyrillic_name": "Е-Кар",
+        "popular": false,
+        "name": "E-Car",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d968151237bca91f2acf515f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d968151237bca91f2acf515f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "E_CAR"
+        },
+        "year_from": 2012,
+        "year_to": 2014
+      },
+      {
+        "id": "EAGLE",
+        "count": 3,
+        "cyrillic_name": "Игл",
+        "popular": false,
+        "name": "Eagle",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609448bcdb2b9d93d115d07a0652/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609448bcdb2b9d93d115d07a0652/dealer_logo",
+        "itemFilterParams": {
+          "mark": "EAGLE"
+        },
+        "year_from": 1987,
+        "year_to": 1999
+      },
+      {
+        "id": "EAGLE_CARS",
+        "count": 0,
+        "cyrillic_name": "Игл Карс",
+        "popular": false,
+        "name": "Eagle Cars",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092502125e3c4b27dc4ae3e9432/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092502125e3c4b27dc4ae3e9432/dealer_logo",
+        "itemFilterParams": {
+          "mark": "EAGLE_CARS"
+        },
+        "year_from": 1982,
+        "year_to": 1998
+      },
+      {
+        "id": "EXCALIBUR",
+        "count": 3,
+        "cyrillic_name": "Экскалибур",
+        "popular": false,
+        "name": "Excalibur",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016091248adcf374347c98ce1bed04/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016091248adcf374347c98ce1bed04/dealer_logo",
+        "itemFilterParams": {
+          "mark": "EXCALIBUR"
+        },
+        "year_from": 1980,
+        "year_to": 1997
+      },
+      {
+        "id": "FAW",
+        "count": 282,
+        "cyrillic_name": "ФАВ",
+        "popular": false,
+        "name": "FAW",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e1976ee01d4db560140350e8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016096e1976ee01d4db560140350e8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FAW"
+        },
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "id": "FERRARI",
+        "count": 33,
+        "cyrillic_name": "Феррари",
+        "popular": false,
+        "name": "Ferrari",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a6f6ba9d550328caeacb66cf/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a6f6ba9d550328caeacb66cf/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FERRARI"
+        },
+        "year_from": 1962,
+        "year_to": 2021
+      },
+      {
+        "id": "FIAT",
+        "count": 1031,
+        "cyrillic_name": "Фиат",
+        "popular": true,
+        "name": "Fiat",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ffa0c7d2a9cc7aede9d3627f6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ffa0c7d2a9cc7aede9d3627f6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FIAT"
+        },
+        "year_from": 1932,
+        "year_to": 2021
+      },
+      {
+        "id": "FISKER",
+        "count": 1,
+        "cyrillic_name": "Фискер",
+        "popular": false,
+        "name": "Fisker",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090ae47a2b7c9da883c54540801/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090ae47a2b7c9da883c54540801/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FISKER"
+        },
+        "year_from": 2009,
+        "year_to": 2012
+      },
+      {
+        "id": "FLANKER",
+        "count": 0,
+        "cyrillic_name": "Фланкер",
+        "popular": false,
+        "name": "Flanker",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000166f825954fbda336b17646400fc7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000166f825954fbda336b17646400fc7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FLANKER"
+        },
+        "year_from": 2018,
+        "year_to": 2018
+      },
+      {
+        "id": "FORD",
+        "count": 12867,
+        "cyrillic_name": "Форд",
+        "popular": true,
+        "name": "Ford",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016d691c30185172465dd1125ee1a5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016d691c30185172465dd1125ee1a5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FORD"
+        },
+        "year_from": 1908,
+        "year_to": 2021
+      },
+      {
+        "id": "FOTON",
+        "count": 15,
+        "cyrillic_name": "Фотон",
+        "popular": false,
+        "name": "Foton",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608e6a1112b71eaf486e35c03e95/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608e6a1112b71eaf486e35c03e95/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FOTON"
+        },
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "id": "FSO",
+        "count": 2,
+        "cyrillic_name": "ФСО",
+        "popular": false,
+        "name": "FSO",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160962e1c5571228c1d849b9b6292/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160962e1c5571228c1d849b9b6292/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FSO"
+        },
+        "year_from": 1967,
+        "year_to": 2002
+      },
+      {
+        "id": "FUQI",
+        "count": 0,
+        "cyrillic_name": "Фуки",
+        "popular": false,
+        "name": "Fuqi",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608db8ec77e0283ea5c925befd4e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608db8ec77e0283ea5c925befd4e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "FUQI"
+        },
+        "year_from": 2005,
+        "year_to": 2005
+      },
+      {
+        "id": "GAC",
+        "count": 15,
+        "cyrillic_name": "ГАК",
+        "popular": false,
+        "name": "GAC",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000165ae1f1c14ac25e6aedf06ae9b6f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000165ae1f1c14ac25e6aedf06ae9b6f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GAC"
+        },
+        "year_from": 2016,
+        "year_to": 2021
+      },
+      {
+        "id": "GEELY",
+        "count": 2155,
+        "cyrillic_name": "Джили",
+        "popular": false,
+        "name": "Geely",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090ad92018a978687728e663533/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090ad92018a978687728e663533/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GEELY"
+        },
+        "year_from": 1998,
+        "year_to": 2021
+      },
+      {
+        "id": "GENESIS",
+        "count": 92,
+        "cyrillic_name": "Генезис",
+        "popular": false,
+        "name": "Genesis",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160966988b0921b3284e35cb13892/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160966988b0921b3284e35cb13892/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GENESIS"
+        },
+        "year_from": 2016,
+        "year_to": 2021
+      },
+      {
+        "id": "GEO",
+        "count": 4,
+        "cyrillic_name": "Гео",
+        "popular": false,
+        "name": "Geo",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609036771cfc639d2fa4a6b0d8d4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609036771cfc639d2fa4a6b0d8d4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GEO"
+        },
+        "year_from": 1989,
+        "year_to": 2002
+      },
+      {
+        "id": "GMC",
+        "count": 51,
+        "cyrillic_name": "Джи-Эм-Си",
+        "popular": false,
+        "name": "GMC",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e58b1f17ae5a484bdbb82c4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e58b1f17ae5a484bdbb82c4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GMC"
+        },
+        "year_from": 1957,
+        "year_to": 2021
+      },
+      {
+        "id": "GONOW",
+        "count": 0,
+        "cyrillic_name": "Гонов",
+        "popular": false,
+        "name": "Gonow",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609669739535458e9688b045e5ae/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609669739535458e9688b045e5ae/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GONOW"
+        },
+        "year_from": 2008,
+        "year_to": 2012
+      },
+      {
+        "id": "GORDON",
+        "count": 0,
+        "cyrillic_name": "Гордон",
+        "popular": false,
+        "name": "Gordon",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016097584da54d4200d922ddc6c3b0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016097584da54d4200d922ddc6c3b0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GORDON"
+        },
+        "year_from": 1997,
+        "year_to": 2021
+      },
+      {
+        "id": "GP",
+        "count": 0,
+        "cyrillic_name": "ГП",
+        "popular": false,
+        "name": "GP",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d9995d80c7772723164ff63c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d9995d80c7772723164ff63c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GP"
+        },
+        "year_from": 1980,
+        "year_to": 1999
+      },
+      {
+        "id": "GREAT_WALL",
+        "count": 1137,
+        "cyrillic_name": "Грейт Вол",
+        "popular": true,
+        "name": "Great Wall",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091d91b851dfb9273bd41f2c5f7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091d91b851dfb9273bd41f2c5f7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GREAT_WALL"
+        },
+        "year_from": 1996,
+        "year_to": 2021
+      },
+      {
+        "id": "HAFEI",
+        "count": 48,
+        "cyrillic_name": "Хафэй",
+        "popular": false,
+        "name": "Hafei",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609124a6afe91533851f01c378c4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609124a6afe91533851f01c378c4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HAFEI"
+        },
+        "year_from": 2002,
+        "year_to": 2010
+      },
+      {
+        "id": "HAIMA",
+        "count": 98,
+        "cyrillic_name": "Хайма",
+        "popular": false,
+        "name": "Haima",
+        "logo": "//avatars.mds.yandex.net/get-verba/1535139/2a0000016b0d12682cc0adcf9eaf8f797bb5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1535139/2a0000016b0d12682cc0adcf9eaf8f797bb5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HAIMA"
+        },
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "id": "HANOMAG",
+        "count": 1,
+        "cyrillic_name": "Ханомаг",
+        "popular": false,
+        "name": "Hanomag",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608db85edae59d363281f9271070/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608db85edae59d363281f9271070/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HANOMAG"
+        },
+        "year_from": 1934,
+        "year_to": 1941
+      },
+      {
+        "id": "HAVAL",
+        "count": 1008,
+        "cyrillic_name": "Хавэйл",
+        "popular": false,
+        "name": "Haval",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609250fccb86937933fec55601e4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609250fccb86937933fec55601e4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HAVAL"
+        },
+        "year_from": 2014,
+        "year_to": 2021
+      },
+      {
+        "id": "HAWTAI",
+        "count": 12,
+        "cyrillic_name": "Хаутай",
+        "popular": false,
+        "name": "Hawtai",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919dd4f037c961ae37ddc62ddf/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919dd4f037c961ae37ddc62ddf/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HAWTAI"
+        },
+        "year_from": 2011,
+        "year_to": 2020
+      },
+      {
+        "id": "HEINKEL",
+        "count": 1,
+        "cyrillic_name": "Хейнкель",
+        "popular": false,
+        "name": "Heinkel",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001703e7d2d43fffaa16da8d99a6de2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001703e7d2d43fffaa16da8d99a6de2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HEINKEL"
+        },
+        "year_from": 1956,
+        "year_to": 1958
+      },
+      {
+        "id": "HENNESSEY",
+        "count": 0,
+        "cyrillic_name": "Хеннесси",
+        "popular": false,
+        "name": "Hennessey",
+        "logo": "//avatars.mds.yandex.net/get-verba/3587101/2a000001769177f5362f405f17300834652b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/3587101/2a000001769177f5362f405f17300834652b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HENNESSEY"
+        },
+        "year_from": 2021,
+        "year_to": 2021
+      },
+      {
+        "id": "HINDUSTAN",
+        "count": 0,
+        "cyrillic_name": "Хиндустан",
+        "popular": false,
+        "name": "Hindustan",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160957aa488ea2792cebc7de3925b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160957aa488ea2792cebc7de3925b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HINDUSTAN"
+        },
+        "year_from": 1979,
+        "year_to": 2014
+      },
+      {
+        "id": "HISPANO_SUIZA",
+        "count": 0,
+        "cyrillic_name": "Испано-Сюиза",
+        "popular": false,
+        "name": "Hispano-Suiza",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091daa311eef9702d67b5c53884/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091daa311eef9702d67b5c53884/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HISPANO_SUIZA"
+        },
+        "year_from": 1934,
+        "year_to": 1937
+      },
+      {
+        "id": "HOLDEN",
+        "count": 0,
+        "cyrillic_name": "Холден",
+        "popular": false,
+        "name": "Holden",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975921c378957e1e9866933376/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975921c378957e1e9866933376/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HOLDEN"
+        },
+        "year_from": 1988,
+        "year_to": 2013
+      },
+      {
+        "id": "HONDA",
+        "count": 5855,
+        "cyrillic_name": "Хонда",
+        "popular": true,
+        "name": "Honda",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e3d48ce8b37e8d442baeef6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e3d48ce8b37e8d442baeef6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HONDA"
+        },
+        "year_from": 1963,
+        "year_to": 2021
+      },
+      {
+        "id": "HORCH",
+        "count": 0,
+        "cyrillic_name": "Хорьх",
+        "popular": false,
+        "name": "Horch",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091da0909b9448aac1097656621/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091da0909b9448aac1097656621/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HORCH"
+        },
+        "year_from": 1933,
+        "year_to": 1940
+      },
+      {
+        "id": "HUANGHAI",
+        "count": 2,
+        "cyrillic_name": "ХуангХай",
+        "popular": false,
+        "name": "HuangHai",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160957997a1d518cdbaf1ca2a847c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160957997a1d518cdbaf1ca2a847c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HUANGHAI"
+        },
+        "year_from": 2006,
+        "year_to": 2011
+      },
+      {
+        "id": "HUDSON",
+        "count": 0,
+        "cyrillic_name": "Хадсон",
+        "popular": false,
+        "name": "Hudson",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dc3a9b592e06b6695fff1d3/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dc3a9b592e06b6695fff1d3/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HUDSON"
+        },
+        "year_from": 1916,
+        "year_to": 1937
+      },
+      {
+        "id": "HUMMER",
+        "count": 162,
+        "cyrillic_name": "Хаммер",
+        "popular": false,
+        "name": "Hummer",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092cbff8cf431d88e54c197ba4a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092cbff8cf431d88e54c197ba4a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HUMMER"
+        },
+        "year_from": 1992,
+        "year_to": 2010
+      },
+      {
+        "id": "HYUNDAI",
+        "count": 22150,
+        "cyrillic_name": "Хендай",
+        "popular": true,
+        "name": "Hyundai",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d563b0e656d35bf0579cf83b44/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d563b0e656d35bf0579cf83b44/dealer_logo",
+        "itemFilterParams": {
+          "mark": "HYUNDAI"
+        },
+        "year_from": 1975,
+        "year_to": 2021
+      },
+      {
+        "id": "INFINITI",
+        "count": 1813,
+        "cyrillic_name": "Инфинити",
+        "popular": true,
+        "name": "Infiniti",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609796d57668228ee2cbbd288c6d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609796d57668228ee2cbbd288c6d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "INFINITI"
+        },
+        "year_from": 1989,
+        "year_to": 2021
+      },
+      {
+        "id": "INNOCENTI",
+        "count": 0,
+        "cyrillic_name": "Инноченти",
+        "popular": false,
+        "name": "Innocenti",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d9da8eb2190ad4fc4a6cb1d3/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d9da8eb2190ad4fc4a6cb1d3/dealer_logo",
+        "itemFilterParams": {
+          "mark": "INNOCENTI"
+        },
+        "year_from": 1965,
+        "year_to": 1997
+      },
+      {
+        "id": "INTERNATIONAL",
+        "count": 0,
+        "cyrillic_name": "Интернейшионал",
+        "popular": false,
+        "name": "International",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea1944115b9674413b93ee152/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea1944115b9674413b93ee152/dealer_logo",
+        "itemFilterParams": {
+          "mark": "INTERNATIONAL"
+        },
+        "year_from": 1969,
+        "year_to": 1975
+      },
+      {
+        "id": "INVICTA",
+        "count": 0,
+        "cyrillic_name": "Инвикта",
+        "popular": false,
+        "name": "Invicta",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092509d4cd5fa66a144778ae66e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092509d4cd5fa66a144778ae66e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "INVICTA"
+        },
+        "year_from": 2004,
+        "year_to": 2012
+      },
+      {
+        "id": "IRAN_KHODRO",
+        "count": 83,
+        "cyrillic_name": "Иран Ходро",
+        "popular": false,
+        "name": "Iran Khodro",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160940c5e8c9c4f85d7ff9c386507/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160940c5e8c9c4f85d7ff9c386507/dealer_logo",
+        "itemFilterParams": {
+          "mark": "IRAN_KHODRO"
+        },
+        "year_from": 1985,
+        "year_to": 2021
+      },
+      {
+        "id": "ISDERA",
+        "count": 0,
+        "cyrillic_name": "Исдера",
+        "popular": false,
+        "name": "Isdera",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a0473ff4f8a3f7b24237e6e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a0473ff4f8a3f7b24237e6e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ISDERA"
+        },
+        "year_from": 1983,
+        "year_to": 1993
+      },
+      {
+        "id": "ISUZU",
+        "count": 159,
+        "cyrillic_name": "Исузу",
+        "popular": false,
+        "name": "Isuzu",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090356efff5c3e59137062bf9ba/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090356efff5c3e59137062bf9ba/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ISUZU"
+        },
+        "year_from": 1963,
+        "year_to": 2021
+      },
+      {
+        "id": "IVECO",
+        "count": 0,
+        "cyrillic_name": "Ивеко",
+        "popular": false,
+        "name": "IVECO",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160b2a62c61843844f36990674d49/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160b2a62c61843844f36990674d49/dealer_logo",
+        "itemFilterParams": {
+          "mark": "IVECO"
+        },
+        "year_from": 2007,
+        "year_to": 2011
+      },
+      {
+        "id": "JAC",
+        "count": 72,
+        "cyrillic_name": "Джак",
+        "popular": false,
+        "name": "JAC",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091618ac395c78c1ed0af7ca89f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091618ac395c78c1ed0af7ca89f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JAC"
+        },
+        "year_from": 2006,
+        "year_to": 2021
+      },
+      {
+        "id": "JAGUAR",
+        "count": 734,
+        "cyrillic_name": "Ягуар",
+        "popular": true,
+        "name": "Jaguar",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090365131aef50c5f23675a052b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090365131aef50c5f23675a052b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JAGUAR"
+        },
+        "year_from": 1948,
+        "year_to": 2021
+      },
+      {
+        "id": "JEEP",
+        "count": 999,
+        "cyrillic_name": "Джип",
+        "popular": true,
+        "name": "Jeep",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608fbe50ec4ad99f81cbc7f6c965/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608fbe50ec4ad99f81cbc7f6c965/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JEEP"
+        },
+        "year_from": 1966,
+        "year_to": 2021
+      },
+      {
+        "id": "JENSEN",
+        "count": 0,
+        "cyrillic_name": "Дженсен",
+        "popular": false,
+        "name": "Jensen",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608d69f544d90c180964856dc6f0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608d69f544d90c180964856dc6f0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JENSEN"
+        },
+        "year_from": 1966,
+        "year_to": 2003
+      },
+      {
+        "id": "JINBEI",
+        "count": 8,
+        "cyrillic_name": "джинбей",
+        "popular": false,
+        "name": "Jinbei",
+        "logo": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016faea441f0f7fe58bc803e60fc08/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016faea441f0f7fe58bc803e60fc08/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JINBEI"
+        },
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "id": "JMC",
+        "count": 1,
+        "cyrillic_name": "Джей Эм Си",
+        "popular": false,
+        "name": "JMC",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091d916d93d369a0764cd68ee0b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016091d916d93d369a0764cd68ee0b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "JMC"
+        },
+        "year_from": 2006,
+        "year_to": 2009
+      },
+      {
+        "id": "KIA",
+        "count": 18730,
+        "cyrillic_name": "Киа",
+        "popular": true,
+        "name": "Kia",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000164d5640a71cfc5df21889436c89b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000164d5640a71cfc5df21889436c89b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "KIA"
+        },
+        "year_from": 1987,
+        "year_to": 2021
+      },
+      {
+        "id": "KOENIGSEGG",
+        "count": 0,
+        "cyrillic_name": "Кёнигсегг",
+        "popular": false,
+        "name": "Koenigsegg",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ff946b6edb5c2e49c24807b6f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608ff946b6edb5c2e49c24807b6f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "KOENIGSEGG"
+        },
+        "year_from": 1998,
+        "year_to": 2021
+      },
+      {
+        "id": "KTM",
+        "count": 0,
+        "cyrillic_name": "КТМ АГ",
+        "popular": false,
+        "name": "KTM AG",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dd774a5dbc46ff53a4aee41/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dd774a5dbc46ff53a4aee41/dealer_logo",
+        "itemFilterParams": {
+          "mark": "KTM"
+        },
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "id": "VAZ",
+        "count": 76772,
+        "cyrillic_name": "Лада",
+        "popular": true,
+        "name": "LADA (ВАЗ)",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000164d5646c6dbfaeb15f639203d541/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000164d5646c6dbfaeb15f639203d541/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VAZ"
+        },
+        "year_from": 1970,
+        "year_to": 2021
+      },
+      {
+        "id": "LAMBORGHINI",
+        "count": 14,
+        "cyrillic_name": "Ламборгини",
+        "popular": false,
+        "name": "Lamborghini",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609250ed2604987e4f27676517f5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609250ed2604987e4f27676517f5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LAMBORGHINI"
+        },
+        "year_from": 1964,
+        "year_to": 2021
+      },
+      {
+        "id": "LANCIA",
+        "count": 31,
+        "cyrillic_name": "Лянча",
+        "popular": false,
+        "name": "Lancia",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609160ab700ef8970046cf708d5c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609160ab700ef8970046cf708d5c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LANCIA"
+        },
+        "year_from": 1922,
+        "year_to": 2021
+      },
+      {
+        "id": "LAND_ROVER",
+        "count": 3654,
+        "cyrillic_name": "Ленд Ровер",
+        "popular": true,
+        "name": "Land Rover",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001663906b5e6af4922cea9b4a0755b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001663906b5e6af4922cea9b4a0755b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LAND_ROVER"
+        },
+        "year_from": 1948,
+        "year_to": 2021
+      },
+      {
+        "id": "LANDWIND",
+        "count": 3,
+        "cyrillic_name": "Лендвинд",
+        "popular": false,
+        "name": "Landwind",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016092caee439df23730f9cc80c711/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016092caee439df23730f9cc80c711/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LANDWIND"
+        },
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "id": "LEXUS",
+        "count": 3317,
+        "cyrillic_name": "Лексус",
+        "popular": true,
+        "name": "Lexus",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160907283f942ed556d639e144d60/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160907283f942ed556d639e144d60/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LEXUS"
+        },
+        "year_from": 1989,
+        "year_to": 2021
+      },
+      {
+        "id": "LIEBAO",
+        "count": 0,
+        "cyrillic_name": "Лиебао мотор",
+        "popular": false,
+        "name": "Liebao Motor",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea5259aac576ebd95a2b5e356/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea5259aac576ebd95a2b5e356/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LIEBAO"
+        },
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "id": "LIFAN",
+        "count": 2351,
+        "cyrillic_name": "Лифан",
+        "popular": true,
+        "name": "Lifan",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d925148ff0d7e9acd19dde27/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d925148ff0d7e9acd19dde27/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LIFAN"
+        },
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "id": "LIGIER",
+        "count": 0,
+        "cyrillic_name": "Лижье",
+        "popular": false,
+        "name": "Ligier",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001671cd63db20a45c609dbf9363b6b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001671cd63db20a45c609dbf9363b6b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LIGIER"
+        },
+        "year_from": 2009,
+        "year_to": 2016
+      },
+      {
+        "id": "LINCOLN",
+        "count": 205,
+        "cyrillic_name": "Линкольн",
+        "popular": false,
+        "name": "Lincoln",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609036aacdb0a4431e73e687dd40/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609036aacdb0a4431e73e687dd40/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LINCOLN"
+        },
+        "year_from": 1936,
+        "year_to": 2021
+      },
+      {
+        "id": "LIXIANG",
+        "count": 0,
+        "cyrillic_name": "Лисян",
+        "popular": false,
+        "name": "LiXiang",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000174c4fd42a40c1de6264b2c9e9e6a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000174c4fd42a40c1de6264b2c9e9e6a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LIXIANG"
+        },
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "id": "LOGEM",
+        "count": 0,
+        "cyrillic_name": "Логем",
+        "popular": false,
+        "name": "Logem",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016dee2e14e0f13630a691417dcce1/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016dee2e14e0f13630a691417dcce1/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LOGEM"
+        },
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "id": "LOTUS",
+        "count": 0,
+        "cyrillic_name": "Лотус",
+        "popular": false,
+        "name": "Lotus",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016098491b40710a804c0174e0b473/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016098491b40710a804c0174e0b473/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LOTUS"
+        },
+        "year_from": 1970,
+        "year_to": 2021
+      },
+      {
+        "id": "LTI",
+        "count": 0,
+        "cyrillic_name": "ЛТИ",
+        "popular": false,
+        "name": "LTI",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a59d9281f4079e707eacb3b4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096a59d9281f4079e707eacb3b4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LTI"
+        },
+        "year_from": 1998,
+        "year_to": 2006
+      },
+      {
+        "id": "LUCID",
+        "count": 0,
+        "cyrillic_name": "Люсид",
+        "popular": false,
+        "name": "Lucid",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160c6eb9fe40d2393ccfd71fe6fee/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160c6eb9fe40d2393ccfd71fe6fee/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LUCID"
+        },
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "id": "LUXGEN",
+        "count": 18,
+        "cyrillic_name": "Люксген",
+        "popular": false,
+        "name": "Luxgen",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071e35911a252d1d90cfe502e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071e35911a252d1d90cfe502e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LUXGEN"
+        },
+        "year_from": 2009,
+        "year_to": 2021
+      },
+      {
+        "id": "MAHINDRA",
+        "count": 2,
+        "cyrillic_name": "Махиндра",
+        "popular": false,
+        "name": "Mahindra",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090e8f37c5a6dca8c738fed422a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090e8f37c5a6dca8c738fed422a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MAHINDRA"
+        },
+        "year_from": 1985,
+        "year_to": 2021
+      },
+      {
+        "id": "MARCOS",
+        "count": 0,
+        "cyrillic_name": "Маркос",
+        "popular": false,
+        "name": "Marcos",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609501e6d0a1655ce87087bc8f73/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609501e6d0a1655ce87087bc8f73/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MARCOS"
+        },
+        "year_from": 1994,
+        "year_to": 2007
+      },
+      {
+        "id": "MARLIN",
+        "count": 0,
+        "cyrillic_name": "Марлин",
+        "popular": false,
+        "name": "Marlin",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093931f4dea87230ac8224562af/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093931f4dea87230ac8224562af/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MARLIN"
+        },
+        "year_from": 2003,
+        "year_to": 2019
+      },
+      {
+        "id": "MARUSSIA",
+        "count": 1,
+        "cyrillic_name": "Маруся",
+        "popular": false,
+        "name": "Marussia",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609161afc6c3fcce7390aa130c5f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609161afc6c3fcce7390aa130c5f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MARUSSIA"
+        },
+        "year_from": 2010,
+        "year_to": 2014
+      },
+      {
+        "id": "MARUTI",
+        "count": 1,
+        "cyrillic_name": "Марути",
+        "popular": false,
+        "name": "Maruti",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608d6934d48abe9d68fc6a9d0e1a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608d6934d48abe9d68fc6a9d0e1a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MARUTI"
+        },
+        "year_from": 1983,
+        "year_to": 2021
+      },
+      {
+        "id": "MASERATI",
+        "count": 98,
+        "cyrillic_name": "Мазерати",
+        "popular": false,
+        "name": "Maserati",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160916050e8d88adba88a7bd7dd3c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160916050e8d88adba88a7bd7dd3c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MASERATI"
+        },
+        "year_from": 1967,
+        "year_to": 2021
+      },
+      {
+        "id": "MAYBACH",
+        "count": 8,
+        "cyrillic_name": "Майбах",
+        "popular": false,
+        "name": "Maybach",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092cba31455e73e36633d9b12f7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092cba31455e73e36633d9b12f7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MAYBACH"
+        },
+        "year_from": 2002,
+        "year_to": 2012
+      },
+      {
+        "id": "MAZDA",
+        "count": 8583,
+        "cyrillic_name": "Мазда",
+        "popular": true,
+        "name": "Mazda",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093933aa8a33649a863601409e1/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093933aa8a33649a863601409e1/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MAZDA"
+        },
+        "year_from": 1960,
+        "year_to": 2021
+      },
+      {
+        "id": "MCLAREN",
+        "count": 4,
+        "cyrillic_name": "МакЛарен",
+        "popular": false,
+        "name": "McLaren",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092503d3d9e526cc9124b85a3e1/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016092503d3d9e526cc9124b85a3e1/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MCLAREN"
+        },
+        "year_from": 1992,
+        "year_to": 2021
+      },
+      {
+        "id": "MEGA",
+        "count": 0,
+        "cyrillic_name": "Мега",
+        "popular": false,
+        "name": "Mega",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e83496469c4f2e9d7e20e52/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e83496469c4f2e9d7e20e52/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MEGA"
+        },
+        "year_from": 1992,
+        "year_to": 2000
+      },
+      {
+        "id": "MERCEDES",
+        "count": 20344,
+        "cyrillic_name": "Мерседес-Бенц",
+        "popular": true,
+        "name": "Mercedes-Benz",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000164d564c2cb01ec4bc5d82315b68c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000164d564c2cb01ec4bc5d82315b68c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MERCEDES"
+        },
+        "year_from": 1904,
+        "year_to": 2021
+      },
+      {
+        "id": "MERCURY",
+        "count": 31,
+        "cyrillic_name": "Меркури",
+        "popular": false,
+        "name": "Mercury",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093d061ba7ddba759d120cac00e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016093d061ba7ddba759d120cac00e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MERCURY"
+        },
+        "year_from": 1949,
+        "year_to": 2011
+      },
+      {
+        "id": "METROCAB",
+        "count": 2,
+        "cyrillic_name": "Метрокэб",
+        "popular": false,
+        "name": "Metrocab",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a6a4760ba0fc25d0e94f5c80/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a6a4760ba0fc25d0e94f5c80/dealer_logo",
+        "itemFilterParams": {
+          "mark": "METROCAB"
+        },
+        "year_from": 1987,
+        "year_to": 2006
+      },
+      {
+        "id": "MG",
+        "count": 13,
+        "cyrillic_name": "Эм-Джи",
+        "popular": false,
+        "name": "MG",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b636aabe6666cc13262f801b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b636aabe6666cc13262f801b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MG"
+        },
+        "year_from": 1950,
+        "year_to": 2021
+      },
+      {
+        "id": "MICROCAR",
+        "count": 0,
+        "cyrillic_name": "Микрокар",
+        "popular": false,
+        "name": "Microcar",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d14fb709c24382dfb48d08a6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d14fb709c24382dfb48d08a6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MICROCAR"
+        },
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "id": "MINELLI",
+        "count": 0,
+        "cyrillic_name": "Минелли",
+        "popular": false,
+        "name": "Minelli",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b521773df6ebfc91e3a8a391/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095b521773df6ebfc91e3a8a391/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MINELLI"
+        },
+        "year_from": 1998,
+        "year_to": 2001
+      },
+      {
+        "id": "MINI",
+        "count": 762,
+        "cyrillic_name": "Мини",
+        "popular": true,
+        "name": "MINI",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d693da4c884cb932ebcafcc7e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d693da4c884cb932ebcafcc7e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MINI"
+        },
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "id": "MITSUBISHI",
+        "count": 11571,
+        "cyrillic_name": "Митсубиси",
+        "popular": true,
+        "name": "Mitsubishi",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d5651d2ae1245140f43816fc51/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d5651d2ae1245140f43816fc51/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MITSUBISHI"
+        },
+        "year_from": 1953,
+        "year_to": 2021
+      },
+      {
+        "id": "MITSUOKA",
+        "count": 2,
+        "cyrillic_name": "Мицуока",
+        "popular": false,
+        "name": "Mitsuoka",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090712eab07bac996ea6d49ffd9/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090712eab07bac996ea6d49ffd9/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MITSUOKA"
+        },
+        "year_from": 1990,
+        "year_to": 2021
+      },
+      {
+        "id": "MORGAN",
+        "count": 0,
+        "cyrillic_name": "Морган",
+        "popular": false,
+        "name": "Morgan",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016090e8ce49629e3231cb0e643c70/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016090e8ce49629e3231cb0e643c70/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MORGAN"
+        },
+        "year_from": 1950,
+        "year_to": 2021
+      },
+      {
+        "id": "MORRIS",
+        "count": 1,
+        "cyrillic_name": "Моррис",
+        "popular": false,
+        "name": "Morris",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e651e1578581456cb6e9c1a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e651e1578581456cb6e9c1a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MORRIS"
+        },
+        "year_from": 1935,
+        "year_to": 1980
+      },
+      {
+        "id": "NASH",
+        "count": 0,
+        "cyrillic_name": "Нэш",
+        "popular": false,
+        "name": "Nash",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001623ddff916d4685076b046e0afe0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001623ddff916d4685076b046e0afe0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "NASH"
+        },
+        "year_from": 1932,
+        "year_to": 1942
+      },
+      {
+        "id": "NIO",
+        "count": 0,
+        "cyrillic_name": "Нио",
+        "popular": false,
+        "name": "Nio",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000174bfd51f8441edf7ba7515745726/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a00000174bfd51f8441edf7ba7515745726/dealer_logo",
+        "itemFilterParams": {
+          "mark": "NIO"
+        },
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "id": "NISSAN",
+        "count": 20193,
+        "cyrillic_name": "Ниссан",
+        "popular": true,
+        "name": "Nissan",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a000001735d3266a0f0bdcaf169f6977027/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a000001735d3266a0f0bdcaf169f6977027/dealer_logo",
+        "itemFilterParams": {
+          "mark": "NISSAN"
+        },
+        "year_from": 1962,
+        "year_to": 2021
+      },
+      {
+        "id": "NOBLE",
+        "count": 0,
+        "cyrillic_name": "Нобл",
+        "popular": false,
+        "name": "Noble",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f1e1298440e49feb2fe40fbd/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f1e1298440e49feb2fe40fbd/dealer_logo",
+        "itemFilterParams": {
+          "mark": "NOBLE"
+        },
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "id": "OLDSMOBILE",
+        "count": 15,
+        "cyrillic_name": "Олдсмобиль",
+        "popular": false,
+        "name": "Oldsmobile",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160966907e3cd094df84c080620c6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160966907e3cd094df84c080620c6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "OLDSMOBILE"
+        },
+        "year_from": 1939,
+        "year_to": 2004
+      },
+      {
+        "id": "OPEL",
+        "count": 10078,
+        "cyrillic_name": "Опель",
+        "popular": true,
+        "name": "Opel",
+        "logo": "//avatars.mds.yandex.net/get-verba/1604130/2a000001692f633740a4c2c90f8aa6af24a0/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1604130/2a000001692f633740a4c2c90f8aa6af24a0/dealer_logo",
+        "itemFilterParams": {
+          "mark": "OPEL"
+        },
+        "year_from": 1935,
+        "year_to": 2021
+      },
+      {
+        "id": "OSCA",
+        "count": 0,
+        "cyrillic_name": "Оска",
+        "popular": false,
+        "name": "Osca",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093932c93b610f00e46c926593e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093932c93b610f00e46c926593e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "OSCA"
+        },
+        "year_from": 1999,
+        "year_to": 2001
+      },
+      {
+        "id": "PACKARD",
+        "count": 2,
+        "cyrillic_name": "Паккард",
+        "popular": false,
+        "name": "Packard",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940bd9777c90e554b424643b0c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940bd9777c90e554b424643b0c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PACKARD"
+        },
+        "year_from": 1912,
+        "year_to": 1952
+      },
+      {
+        "id": "PAGANI",
+        "count": 0,
+        "cyrillic_name": "Пагани",
+        "popular": false,
+        "name": "Pagani",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160979638bdf113b66e1ce678b9e5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160979638bdf113b66e1ce678b9e5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PAGANI"
+        },
+        "year_from": 1999,
+        "year_to": 2021
+      },
+      {
+        "id": "PANOZ",
+        "count": 0,
+        "cyrillic_name": "Паноз",
+        "popular": false,
+        "name": "Panoz",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094486f8824c6a266e31dda725c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094486f8824c6a266e31dda725c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PANOZ"
+        },
+        "year_from": 1992,
+        "year_to": 2007
+      },
+      {
+        "id": "PERODUA",
+        "count": 0,
+        "cyrillic_name": "Перодуа",
+        "popular": false,
+        "name": "Perodua",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f275cfc9306d94741760535b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f275cfc9306d94741760535b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PERODUA"
+        },
+        "year_from": 1994,
+        "year_to": 2021
+      },
+      {
+        "id": "PEUGEOT",
+        "count": 4784,
+        "cyrillic_name": "Пежо",
+        "popular": true,
+        "name": "Peugeot",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608d694fb029b70c4cccfbf89f68/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608d694fb029b70c4cccfbf89f68/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PEUGEOT"
+        },
+        "year_from": 1929,
+        "year_to": 2021
+      },
+      {
+        "id": "PGO",
+        "count": 0,
+        "cyrillic_name": "ПГО",
+        "popular": false,
+        "name": "PGO",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609a708ca235c84125f0d91f51fd/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609a708ca235c84125f0d91f51fd/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PGO"
+        },
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "id": "PIAGGIO",
+        "count": 0,
+        "cyrillic_name": "Пьяджо",
+        "popular": false,
+        "name": "Piaggio",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160980e363e940fc5c3929f39fc73/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a00000160980e363e940fc5c3929f39fc73/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PIAGGIO"
+        },
+        "year_from": 1992,
+        "year_to": 2021
+      },
+      {
+        "id": "PLYMOUTH",
+        "count": 39,
+        "cyrillic_name": "Плимут",
+        "popular": false,
+        "name": "Plymouth",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919cb58426e6406b46922de61f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919cb58426e6406b46922de61f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PLYMOUTH"
+        },
+        "year_from": 1964,
+        "year_to": 2002
+      },
+      {
+        "id": "POLESTAR",
+        "count": 1,
+        "cyrillic_name": "Полестар",
+        "popular": false,
+        "name": "Polestar",
+        "logo": "//avatars.mds.yandex.net/get-verba/3587101/2a000001766ae47b083d6fb7e639d1b33fbf/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/3587101/2a000001766ae47b083d6fb7e639d1b33fbf/dealer_logo",
+        "itemFilterParams": {
+          "mark": "POLESTAR"
+        },
+        "year_from": 2019,
+        "year_to": 2021
+      },
+      {
+        "id": "PONTIAC",
+        "count": 113,
+        "cyrillic_name": "Понтиак",
+        "popular": false,
+        "name": "Pontiac",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160935778f178cbdd7760b02874e5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160935778f178cbdd7760b02874e5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PONTIAC"
+        },
+        "year_from": 1939,
+        "year_to": 2010
+      },
+      {
+        "id": "PORSCHE",
+        "count": 1547,
+        "cyrillic_name": "Порше",
+        "popular": true,
+        "name": "Porsche",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971cc1928590e61f86c05ba2e3/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971cc1928590e61f86c05ba2e3/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PORSCHE"
+        },
+        "year_from": 1948,
+        "year_to": 2021
+      },
+      {
+        "id": "PREMIER",
+        "count": 0,
+        "cyrillic_name": "Премьер",
+        "popular": false,
+        "name": "Premier",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953daa331295016bb10b2b2c61/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953daa331295016bb10b2b2c61/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PREMIER"
+        },
+        "year_from": 1964,
+        "year_to": 2001
+      },
+      {
+        "id": "PROTON",
+        "count": 14,
+        "cyrillic_name": "Протон",
+        "popular": false,
+        "name": "Proton",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d0d9937ac4f491c8f3f1f48f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d0d9937ac4f491c8f3f1f48f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PROTON"
+        },
+        "year_from": 1985,
+        "year_to": 2021
+      },
+      {
+        "id": "PUCH",
+        "count": 9,
+        "cyrillic_name": "Пух",
+        "popular": false,
+        "name": "PUCH",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dc2ac9574236828f45ffc2b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971dc2ac9574236828f45ffc2b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PUCH"
+        },
+        "year_from": 1971,
+        "year_to": 2000
+      },
+      {
+        "id": "PUMA",
+        "count": 0,
+        "cyrillic_name": "Пума",
+        "popular": false,
+        "name": "Puma",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609796e7f6e49846a8e3b87976c9/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609796e7f6e49846a8e3b87976c9/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PUMA"
+        },
+        "year_from": 1967,
+        "year_to": 1995
+      },
+      {
+        "id": "QOROS",
+        "count": 0,
+        "cyrillic_name": "Куорос",
+        "popular": false,
+        "name": "Qoros",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093d04187280e1f5e8c80415140/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093d04187280e1f5e8c80415140/dealer_logo",
+        "itemFilterParams": {
+          "mark": "QOROS"
+        },
+        "year_from": 2014,
+        "year_to": 2021
+      },
+      {
+        "id": "QVALE",
+        "count": 0,
+        "cyrillic_name": "Куали",
+        "popular": false,
+        "name": "Qvale",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092504602a90af908030e9df012/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016092504602a90af908030e9df012/dealer_logo",
+        "itemFilterParams": {
+          "mark": "QVALE"
+        },
+        "year_from": 1999,
+        "year_to": 2002
+      },
+      {
+        "id": "RAM",
+        "count": 17,
+        "cyrillic_name": "Рам",
+        "popular": false,
+        "name": "RAM",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000017491233aa25d8822505bf8510508/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000017491233aa25d8822505bf8510508/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RAM"
+        },
+        "year_from": 2011,
+        "year_to": 2021
+      },
+      {
+        "id": "RAMBLER",
+        "count": 0,
+        "cyrillic_name": "Рамблер",
+        "popular": false,
+        "name": "Rambler",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea7a2b27f0183c350ae515e27/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016faea7a2b27f0183c350ae515e27/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RAMBLER"
+        },
+        "year_from": 1965,
+        "year_to": 1972
+      },
+      {
+        "id": "RAVON",
+        "count": 287,
+        "cyrillic_name": "Равон",
+        "popular": false,
+        "name": "Ravon",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160944895bdbe83a2f0d5819cb7c3/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160944895bdbe83a2f0d5819cb7c3/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RAVON"
+        },
+        "year_from": 2015,
+        "year_to": 2021
+      },
+      {
+        "id": "RELIANT",
+        "count": 0,
+        "cyrillic_name": "Релайент",
+        "popular": false,
+        "name": "Reliant",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919cc8a78e60235a45e41c205b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919cc8a78e60235a45e41c205b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RELIANT"
+        },
+        "year_from": 1984,
+        "year_to": 1992
+      },
+      {
+        "id": "RENAISSANCE_CARS",
+        "count": 0,
+        "cyrillic_name": "Ренессанс",
+        "popular": false,
+        "name": "Renaissance",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016097581ac13094826cb19b783dba/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016097581ac13094826cb19b783dba/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RENAISSANCE_CARS"
+        },
+        "year_from": 1995,
+        "year_to": 1995
+      },
+      {
+        "id": "RENAULT",
+        "count": 16733,
+        "cyrillic_name": "Рено",
+        "popular": true,
+        "name": "Renault",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d565d50154f2267770f9b40fdd/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000164d565d50154f2267770f9b40fdd/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RENAULT"
+        },
+        "year_from": 1929,
+        "year_to": 2021
+      },
+      {
+        "id": "SAMSUNG",
+        "count": 2,
+        "cyrillic_name": "Рено Самсунг",
+        "popular": false,
+        "name": "Renault Samsung",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609035eb4ac2cf9b1517af97de6d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609035eb4ac2cf9b1517af97de6d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SAMSUNG"
+        },
+        "year_from": 1998,
+        "year_to": 2021
+      },
+      {
+        "id": "REZVANI",
+        "count": 0,
+        "cyrillic_name": "резвани",
+        "popular": false,
+        "name": "Rezvani",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095f25f93090727c762250a22ca/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095f25f93090727c762250a22ca/dealer_logo",
+        "itemFilterParams": {
+          "mark": "REZVANI"
+        },
+        "year_from": 2015,
+        "year_to": 2021
+      },
+      {
+        "id": "RIMAC",
+        "count": 0,
+        "cyrillic_name": "Римак",
+        "popular": false,
+        "name": "Rimac",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016094867fd1d6059bf973c25557c6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016094867fd1d6059bf973c25557c6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RIMAC"
+        },
+        "year_from": 2013,
+        "year_to": 2021
+      },
+      {
+        "id": "RINSPEED",
+        "count": 0,
+        "cyrillic_name": "Ринспид",
+        "popular": false,
+        "name": "Rinspeed",
+        "logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016a25093462659cfe37b73930772c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1540742/2a0000016a25093462659cfe37b73930772c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RINSPEED"
+        },
+        "year_from": 2005,
+        "year_to": 2005
+      },
+      {
+        "id": "ROEWE",
+        "count": 0,
+        "popular": false,
+        "name": "Roewe",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160b3aaaa02e1686a8e89ada3ab4d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160b3aaaa02e1686a8e89ada3ab4d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ROEWE"
+        },
+        "year_from": 2012,
+        "year_to": 2021
+      },
+      {
+        "id": "ROLLS_ROYCE",
+        "count": 89,
+        "cyrillic_name": "Роллс-Ройс",
+        "popular": false,
+        "name": "Rolls-Royce",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609071040cb5b67150ee763e4126/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609071040cb5b67150ee763e4126/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ROLLS_ROYCE"
+        },
+        "year_from": 1906,
+        "year_to": 2021
+      },
+      {
+        "id": "RONART",
+        "count": 0,
+        "cyrillic_name": "Ронарт",
+        "popular": false,
+        "name": "Ronart",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090357512a501978335cd6fd6b9/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016090357512a501978335cd6fd6b9/dealer_logo",
+        "itemFilterParams": {
+          "mark": "RONART"
+        },
+        "year_from": 2000,
+        "year_to": 2013
+      },
+      {
+        "id": "ROVER",
+        "count": 257,
+        "cyrillic_name": "Ровер",
+        "popular": false,
+        "name": "Rover",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e25e537e825f8cad029de1e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160953e25e537e825f8cad029de1e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ROVER"
+        },
+        "year_from": 1933,
+        "year_to": 2005
+      },
+      {
+        "id": "SAAB",
+        "count": 307,
+        "cyrillic_name": "Сааб",
+        "popular": true,
+        "name": "Saab",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975abe3b0684aeb9cdd8c78494/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160975abe3b0684aeb9cdd8c78494/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SAAB"
+        },
+        "year_from": 1956,
+        "year_to": 2014
+      },
+      {
+        "id": "SAIPA",
+        "count": 0,
+        "cyrillic_name": "Сайпа",
+        "popular": false,
+        "name": "Saipa",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000163fe3f7ed29dfe2e42e26cfe58ce/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000163fe3f7ed29dfe2e42e26cfe58ce/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SAIPA"
+        },
+        "year_from": 2009,
+        "year_to": 2021
+      },
+      {
+        "id": "SALEEN",
+        "count": 0,
+        "cyrillic_name": "Салин",
+        "popular": false,
+        "name": "Saleen",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608fbd5d56d6f114f1fc15b9defa/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608fbd5d56d6f114f1fc15b9defa/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SALEEN"
+        },
+        "year_from": 2000,
+        "year_to": 2006
+      },
+      {
+        "id": "SANTANA",
+        "count": 0,
+        "cyrillic_name": "Сантана",
+        "popular": false,
+        "name": "Santana",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608d6a4c146dc88966bdb5f6a953/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608d6a4c146dc88966bdb5f6a953/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SANTANA"
+        },
+        "year_from": 2007,
+        "year_to": 2011
+      },
+      {
+        "id": "SATURN",
+        "count": 41,
+        "cyrillic_name": "Сатурн",
+        "popular": false,
+        "name": "Saturn",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609357102293d7ef1137a7fc15fc/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609357102293d7ef1137a7fc15fc/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SATURN"
+        },
+        "year_from": 1990,
+        "year_to": 2010
+      },
+      {
+        "id": "SCION",
+        "count": 19,
+        "cyrillic_name": "Сайон",
+        "popular": false,
+        "name": "Scion",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609669dd9c498902a510d962e798/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609669dd9c498902a510d962e798/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SCION"
+        },
+        "year_from": 2003,
+        "year_to": 2016
+      },
+      {
+        "id": "SEARS",
+        "count": 0,
+        "cyrillic_name": "Сирс",
+        "popular": false,
+        "name": "Sears",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001727571f7750532dcde7474522ec6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001727571f7750532dcde7474522ec6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SEARS"
+        },
+        "year_from": 1908,
+        "year_to": 1912
+      },
+      {
+        "id": "SEAT",
+        "count": 236,
+        "cyrillic_name": "Сеат",
+        "popular": true,
+        "name": "SEAT",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093cf67dd55e52e5f665a4a20a2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093cf67dd55e52e5f665a4a20a2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SEAT"
+        },
+        "year_from": 1974,
+        "year_to": 2021
+      },
+      {
+        "id": "SHANGHAI_MAPLE",
+        "count": 9,
+        "cyrillic_name": "Шанхай Мапл",
+        "popular": false,
+        "name": "Shanghai Maple",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160980e1ff3947de76b32c4debd0b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160980e1ff3947de76b32c4debd0b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SHANGHAI_MAPLE"
+        },
+        "year_from": 2004,
+        "year_to": 2010
+      },
+      {
+        "id": "SHUANGHUAN",
+        "count": 3,
+        "cyrillic_name": "Шунган",
+        "popular": false,
+        "name": "ShuangHuan",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096e2840622bee0036861d73560/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016096e2840622bee0036861d73560/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SHUANGHUAN"
+        },
+        "year_from": 2006,
+        "year_to": 2016
+      },
+      {
+        "id": "SIMCA",
+        "count": 1,
+        "cyrillic_name": "Симка",
+        "popular": false,
+        "name": "Simca",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000166c523fa2e5d3a48b391e741c8b1/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000166c523fa2e5d3a48b391e741c8b1/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SIMCA"
+        },
+        "year_from": 1963,
+        "year_to": 1979
+      },
+      {
+        "id": "SKODA",
+        "count": 9821,
+        "cyrillic_name": "Шкода",
+        "popular": true,
+        "name": "Skoda",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609250b4f3b5e130727be5d5d072/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609250b4f3b5e130727be5d5d072/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SKODA"
+        },
+        "year_from": 1934,
+        "year_to": 2021
+      },
+      {
+        "id": "SMART",
+        "count": 144,
+        "cyrillic_name": "Смарт",
+        "popular": false,
+        "name": "Smart",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016097592252668f73df0a0cbcc3f9/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a0000016097592252668f73df0a0cbcc3f9/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SMART"
+        },
+        "year_from": 1998,
+        "year_to": 2021
+      },
+      {
+        "id": "SOUEAST",
+        "count": 0,
+        "cyrillic_name": "Соуист",
+        "popular": false,
+        "name": "Soueast",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609669b51c123da80194b0c7ea87/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609669b51c123da80194b0c7ea87/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SOUEAST"
+        },
+        "year_from": 2005,
+        "year_to": 2010
+      },
+      {
+        "id": "SPECTRE",
+        "count": 0,
+        "cyrillic_name": "Спектр",
+        "popular": false,
+        "name": "Spectre",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d68cc35182772e8c87feb0ea4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001608d68cc35182772e8c87feb0ea4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SPECTRE"
+        },
+        "year_from": 1996,
+        "year_to": 1997
+      },
+      {
+        "id": "SPYKER",
+        "count": 0,
+        "cyrillic_name": "Спайкер",
+        "popular": false,
+        "name": "Spyker",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e693d1eb948d62b5fdf60deb5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e693d1eb948d62b5fdf60deb5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SPYKER"
+        },
+        "year_from": 2001,
+        "year_to": 2021
+      },
+      {
+        "id": "SSANG_YONG",
+        "count": 2019,
+        "cyrillic_name": "Ссанъён",
+        "popular": true,
+        "name": "SsangYong",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609447f1cc75e1aff61995893d75/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a000001609447f1cc75e1aff61995893d75/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SSANG_YONG"
+        },
+        "year_from": 1987,
+        "year_to": 2021
+      },
+      {
+        "id": "STEYR",
+        "count": 0,
+        "cyrillic_name": "Штайр",
+        "popular": false,
+        "name": "Steyr",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608db7f48719709c665bd0a34fe7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608db7f48719709c665bd0a34fe7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "STEYR"
+        },
+        "year_from": 1941,
+        "year_to": 1944
+      },
+      {
+        "id": "STUDEBAKER",
+        "count": 1,
+        "cyrillic_name": "Студебейкер",
+        "popular": false,
+        "name": "Studebaker",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000164ad90db1a9cfbb66dd79e226e40/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a00000164ad90db1a9cfbb66dd79e226e40/dealer_logo",
+        "itemFilterParams": {
+          "mark": "STUDEBAKER"
+        },
+        "year_from": 1956,
+        "year_to": 1958
+      },
+      {
+        "id": "SUBARU",
+        "count": 2750,
+        "cyrillic_name": "Субару",
+        "popular": true,
+        "name": "Subaru",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609072921558c27215f3153e2b16/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609072921558c27215f3153e2b16/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SUBARU"
+        },
+        "year_from": 1958,
+        "year_to": 2021
+      },
+      {
+        "id": "SUZUKI",
+        "count": 3341,
+        "cyrillic_name": "Сузуки",
+        "popular": true,
+        "name": "Suzuki",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609ef2d9136d4667474096572af8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609ef2d9136d4667474096572af8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SUZUKI"
+        },
+        "year_from": 1970,
+        "year_to": 2021
+      },
+      {
+        "id": "TALBOT",
+        "count": 0,
+        "cyrillic_name": "Толбет",
+        "popular": false,
+        "name": "Talbot",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c3fc582a5533c95c05b93de/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940c3fc582a5533c95c05b93de/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TALBOT"
+        },
+        "year_from": 1970,
+        "year_to": 1987
+      },
+      {
+        "id": "TATA",
+        "count": 6,
+        "cyrillic_name": "ТАТА",
+        "popular": false,
+        "name": "TATA",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608ffac1c5617225b1513f628dfa/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608ffac1c5617225b1513f628dfa/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TATA"
+        },
+        "year_from": 1993,
+        "year_to": 2021
+      },
+      {
+        "id": "TATRA",
+        "count": 3,
+        "cyrillic_name": "Татра",
+        "popular": false,
+        "name": "Tatra",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160962d10e00a250a6dbb748ff44e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160962d10e00a250a6dbb748ff44e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TATRA"
+        },
+        "year_from": 1931,
+        "year_to": 1999
+      },
+      {
+        "id": "TAZZARI",
+        "count": 0,
+        "cyrillic_name": "Таззари",
+        "popular": false,
+        "name": "Tazzari",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160919e912aa35a2bda6d000fb544/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160919e912aa35a2bda6d000fb544/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TAZZARI"
+        },
+        "year_from": 2009,
+        "year_to": 2021
+      },
+      {
+        "id": "TESLA",
+        "count": 126,
+        "cyrillic_name": "Тесла",
+        "popular": false,
+        "name": "Tesla",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017608f8af37a46eb6d36ea176809b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017608f8af37a46eb6d36ea176809b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TESLA"
+        },
+        "year_from": 2008,
+        "year_to": 2021
+      },
+      {
+        "id": "THINK",
+        "count": 0,
+        "cyrillic_name": "Синк",
+        "popular": false,
+        "name": "Think",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095010a1bbdc8e76e3eaa736cab/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095010a1bbdc8e76e3eaa736cab/dealer_logo",
+        "itemFilterParams": {
+          "mark": "THINK"
+        },
+        "year_from": 2008,
+        "year_to": 2012
+      },
+      {
+        "id": "TIANMA",
+        "count": 4,
+        "cyrillic_name": "Тианма",
+        "popular": false,
+        "name": "Tianma",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093d03080ed5135cb98ccc58df4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093d03080ed5135cb98ccc58df4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TIANMA"
+        },
+        "year_from": 2005,
+        "year_to": 2008
+      },
+      {
+        "id": "TIANYE",
+        "count": 11,
+        "cyrillic_name": "Тианье",
+        "popular": false,
+        "name": "Tianye",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160984887609211b8da42f14e5c64/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160984887609211b8da42f14e5c64/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TIANYE"
+        },
+        "year_from": 2001,
+        "year_to": 2007
+      },
+      {
+        "id": "TOFAS",
+        "count": 0,
+        "cyrillic_name": "Тофаш",
+        "popular": false,
+        "name": "Tofas",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608db87d415d103037630329f98f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608db87d415d103037630329f98f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TOFAS"
+        },
+        "year_from": 1971,
+        "year_to": 2003
+      },
+      {
+        "id": "TOYOTA",
+        "count": 23394,
+        "cyrillic_name": "Тойота",
+        "popular": true,
+        "name": "Toyota",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001737684417abde6b5df9f0591794f/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001737684417abde6b5df9f0591794f/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TOYOTA"
+        },
+        "year_from": 1960,
+        "year_to": 2021
+      },
+      {
+        "id": "TRABANT",
+        "count": 4,
+        "cyrillic_name": "Трабант",
+        "popular": false,
+        "name": "Trabant",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016098484f417b70bade08a842dfb4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016098484f417b70bade08a842dfb4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TRABANT"
+        },
+        "year_from": 1958,
+        "year_to": 1991
+      },
+      {
+        "id": "TRAMONTANA",
+        "count": 0,
+        "cyrillic_name": "Трамонтана",
+        "popular": false,
+        "name": "Tramontana",
+        "logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001609758ad18268631a367bd890c69/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/997355/2a000001609758ad18268631a367bd890c69/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TRAMONTANA"
+        },
+        "year_from": 2007,
+        "year_to": 2021
+      },
+      {
+        "id": "TRIUMPH",
+        "count": 3,
+        "cyrillic_name": "Триумф",
+        "popular": false,
+        "name": "Triumph",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b6496f374975ed076fd8543b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016095b6496f374975ed076fd8543b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TRIUMPH"
+        },
+        "year_from": 1961,
+        "year_to": 1984
+      },
+      {
+        "id": "TVR",
+        "count": 0,
+        "cyrillic_name": "ТВР",
+        "popular": false,
+        "name": "TVR",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a7a98d20e2e13593696096d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001608e6a7a98d20e2e13593696096d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TVR"
+        },
+        "year_from": 1976,
+        "year_to": 2006
+      },
+      {
+        "id": "ULTIMA",
+        "count": 0,
+        "cyrillic_name": "Ультима",
+        "popular": false,
+        "name": "Ultima",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d90d304e491dfee0cc48e33b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016091d90d304e491dfee0cc48e33b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ULTIMA"
+        },
+        "year_from": 2001,
+        "year_to": 2015
+      },
+      {
+        "id": "VAUXHALL",
+        "count": 2,
+        "cyrillic_name": "Воксхолл",
+        "popular": false,
+        "name": "Vauxhall",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919eec6c6c9921deff43337a06/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919eec6c6c9921deff43337a06/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VAUXHALL"
+        },
+        "year_from": 1948,
+        "year_to": 2021
+      },
+      {
+        "id": "VECTOR",
+        "count": 0,
+        "cyrillic_name": "Вектор",
+        "popular": false,
+        "name": "Vector",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016094c5870ec3d5ff9d3feb1a34e5/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016094c5870ec3d5ff9d3feb1a34e5/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VECTOR"
+        },
+        "year_from": 1989,
+        "year_to": 2000
+      },
+      {
+        "id": "VENTURI",
+        "count": 0,
+        "cyrillic_name": "Вентури",
+        "popular": false,
+        "name": "Venturi",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940caf7f09beac1fea9efee2e6/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160940caf7f09beac1fea9efee2e6/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VENTURI"
+        },
+        "year_from": 1984,
+        "year_to": 2000
+      },
+      {
+        "id": "VOLKSWAGEN",
+        "count": 19323,
+        "cyrillic_name": "Фольксваген",
+        "popular": true,
+        "name": "Volkswagen",
+        "logo": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016f0df4b586c4a2e5ce1b023e176a/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1672712/2a0000016f0df4b586c4a2e5ce1b023e176a/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VOLKSWAGEN"
+        },
+        "year_from": 1938,
+        "year_to": 2021
+      },
+      {
+        "id": "VOLVO",
+        "count": 3343,
+        "cyrillic_name": "Вольво",
+        "popular": true,
+        "name": "Volvo",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971d910d95d6d792fd794ffc56/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971d910d95d6d792fd794ffc56/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VOLVO"
+        },
+        "year_from": 1956,
+        "year_to": 2021
+      },
+      {
+        "id": "VORTEX",
+        "count": 411,
+        "cyrillic_name": "Вортекс",
+        "popular": false,
+        "name": "Vortex",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d18138e04313fa5cdf4d0cbb/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016097d18138e04313fa5cdf4d0cbb/dealer_logo",
+        "itemFilterParams": {
+          "mark": "VORTEX"
+        },
+        "year_from": 2008,
+        "year_to": 2014
+      },
+      {
+        "id": "W_MOTORS",
+        "count": 0,
+        "cyrillic_name": "дабл-ю моторс",
+        "popular": false,
+        "name": "W Motors",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094480cf071d222c33b91d9f875/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016094480cf071d222c33b91d9f875/dealer_logo",
+        "itemFilterParams": {
+          "mark": "W_MOTORS"
+        },
+        "year_from": 2013,
+        "year_to": 2021
+      },
+      {
+        "id": "WANDERER",
+        "count": 5,
+        "cyrillic_name": "Вандерер",
+        "popular": false,
+        "name": "Wanderer",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e65c7161291beea26ab4065/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971e65c7161291beea26ab4065/dealer_logo",
+        "itemFilterParams": {
+          "mark": "WANDERER"
+        },
+        "year_from": 1936,
+        "year_to": 1941
+      },
+      {
+        "id": "WARTBURG",
+        "count": 4,
+        "cyrillic_name": "Вартбург",
+        "popular": false,
+        "name": "Wartburg",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093d03082cd00028d849c569287/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016093d03082cd00028d849c569287/dealer_logo",
+        "itemFilterParams": {
+          "mark": "WARTBURG"
+        },
+        "year_from": 1966,
+        "year_to": 1991
+      },
+      {
+        "id": "WESTFIELD",
+        "count": 0,
+        "cyrillic_name": "Вестфилд",
+        "popular": false,
+        "name": "Westfield",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016094c5284332960bff91096d2364/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000016094c5284332960bff91096d2364/dealer_logo",
+        "itemFilterParams": {
+          "mark": "WESTFIELD"
+        },
+        "year_from": 1982,
+        "year_to": 2021
+      },
+      {
+        "id": "WIESMANN",
+        "count": 0,
+        "cyrillic_name": "Вайсман",
+        "popular": false,
+        "name": "Wiesmann",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160962e42c901cf4a31978f8886f8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160962e42c901cf4a31978f8886f8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "WIESMANN"
+        },
+        "year_from": 1996,
+        "year_to": 2013
+      },
+      {
+        "id": "WILLIS",
+        "count": 15,
+        "cyrillic_name": "Виллис",
+        "popular": false,
+        "name": "Willys",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016090adbc70dcfab893bcfbb17b75/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016090adbc70dcfab893bcfbb17b75/dealer_logo",
+        "itemFilterParams": {
+          "mark": "WILLIS"
+        },
+        "year_from": 1920,
+        "year_to": 1968
+      },
+      {
+        "id": "XINKAI",
+        "count": 6,
+        "cyrillic_name": "Ксин Кай",
+        "popular": false,
+        "name": "Xin Kai",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093567bd5d092eb19fc8b0c1c1e/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000016093567bd5d092eb19fc8b0c1c1e/dealer_logo",
+        "itemFilterParams": {
+          "mark": "XINKAI"
+        },
+        "year_from": 2003,
+        "year_to": 2021
+      },
+      {
+        "id": "XPENG",
+        "count": 3,
+        "popular": false,
+        "name": "Xpeng",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017300ccdb84b314891968dcb3e40b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017300ccdb84b314891968dcb3e40b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "XPENG"
+        },
+        "year_from": 2018,
+        "year_to": 2021
+      },
+      {
+        "id": "YULON",
+        "count": 0,
+        "cyrillic_name": "Юлон",
+        "popular": false,
+        "name": "Yulon",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017137039803df6841b8187666b902/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a0000017137039803df6841b8187666b902/dealer_logo",
+        "itemFilterParams": {
+          "mark": "YULON"
+        },
+        "year_from": 1986,
+        "year_to": 1995
+      },
+      {
+        "id": "ZASTAVA",
+        "count": 0,
+        "cyrillic_name": "Застава",
+        "popular": false,
+        "name": "Zastava",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090aca0305773ae7a00fe14e2b8/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090aca0305773ae7a00fe14e2b8/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZASTAVA"
+        },
+        "year_from": 1973,
+        "year_to": 2008
+      },
+      {
+        "id": "ZENOS",
+        "count": 0,
+        "cyrillic_name": "Зенос",
+        "popular": false,
+        "name": "Zenos",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609214a82dbcfbcef811ee87a472/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609214a82dbcfbcef811ee87a472/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZENOS"
+        },
+        "year_from": 2014,
+        "year_to": 2016
+      },
+      {
+        "id": "ZENVO",
+        "count": 0,
+        "cyrillic_name": "Зенво",
+        "popular": false,
+        "name": "Zenvo",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971d9e310256ab2002141da3ba/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160971d9e310256ab2002141da3ba/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZENVO"
+        },
+        "year_from": 2009,
+        "year_to": 2010
+      },
+      {
+        "id": "ZIBAR",
+        "count": 0,
+        "cyrillic_name": "Зибар",
+        "popular": false,
+        "name": "Zibar",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f13ff159c158e5d898ad1607/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016095f13ff159c158e5d898ad1607/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZIBAR"
+        },
+        "year_from": 2010,
+        "year_to": 2021
+      },
+      {
+        "id": "ZOTYE",
+        "count": 73,
+        "cyrillic_name": "Зоти",
+        "popular": false,
+        "name": "Zotye",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608d68f3fcc47d0891375e0d6a0b/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001608d68f3fcc47d0891375e0d6a0b/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZOTYE"
+        },
+        "year_from": 2005,
+        "year_to": 2021
+      },
+      {
+        "id": "ZX",
+        "count": 28,
+        "cyrillic_name": "ЗХ",
+        "popular": false,
+        "name": "ZX",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160924fb7e28e7d27d5489a176585/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160924fb7e28e7d27d5489a176585/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZX"
+        },
+        "year_from": 2005,
+        "year_to": 2013
+      },
+      {
+        "id": "AVTOKAM",
+        "count": 1,
+        "cyrillic_name": "Автокам",
+        "popular": false,
+        "name": "Автокам",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609393d2d90ce1ada365a610afe4/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609393d2d90ce1ada365a610afe4/dealer_logo",
+        "itemFilterParams": {
+          "mark": "AVTOKAM"
+        },
+        "year_from": 1990,
+        "year_to": 1999
+      },
+      {
+        "id": "GAZ",
+        "count": 4752,
+        "cyrillic_name": "ГАЗ",
+        "popular": true,
+        "name": "ГАЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016098498a98e15e71322aeaf4bf19/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016098498a98e15e71322aeaf4bf19/dealer_logo",
+        "itemFilterParams": {
+          "mark": "GAZ"
+        },
+        "year_from": 1932,
+        "year_to": 2021
+      },
+      {
+        "id": "PROMO_AUTO",
+        "count": 4,
+        "cyrillic_name": "Гоночный болид",
+        "popular": false,
+        "name": "Гоночный автомобиль",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001671cdc0b62318034240601b27455/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001671cdc0b62318034240601b27455/dealer_logo",
+        "itemFilterParams": {
+          "mark": "PROMO_AUTO"
+        },
+        "year_from": 1950,
+        "year_to": 2021
+      },
+      {
+        "id": "ZAZ",
+        "count": 1484,
+        "cyrillic_name": "ЗАЗ",
+        "popular": true,
+        "name": "ЗАЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071e7c03e7df1e175238c6c47/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/216201/2a000001609071e7c03e7df1e175238c6c47/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZAZ"
+        },
+        "year_from": 1960,
+        "year_to": 2016
+      },
+      {
+        "id": "ZIL",
+        "count": 7,
+        "cyrillic_name": "ЗИЛ",
+        "popular": false,
+        "name": "ЗИЛ",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090715ae4a52917f67a910da04d/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090715ae4a52917f67a910da04d/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZIL"
+        },
+        "year_from": 1959,
+        "year_to": 2002
+      },
+      {
+        "id": "ZIS",
+        "count": 2,
+        "cyrillic_name": "ЗиС",
+        "popular": false,
+        "name": "ЗиС",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609160851e1fe572eb18543f3917/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609160851e1fe572eb18543f3917/dealer_logo",
+        "itemFilterParams": {
+          "mark": "ZIS"
+        },
+        "year_from": 1936,
+        "year_to": 1958
+      },
+      {
+        "id": "IG",
+        "count": 676,
+        "cyrillic_name": "ИЖ",
+        "popular": false,
+        "name": "ИЖ",
+        "logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160921567a66d05f9be4d8f314e15/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/937147/2a00000160921567a66d05f9be4d8f314e15/dealer_logo",
+        "itemFilterParams": {
+          "mark": "IG"
+        },
+        "year_from": 1967,
+        "year_to": 2005
+      },
+      {
+        "id": "KANONIR",
+        "count": 1,
+        "cyrillic_name": "Канонир",
+        "popular": false,
+        "name": "Канонир",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a6f17b9f0380a1051a0e2e75/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a0000016096a6f17b9f0380a1051a0e2e75/dealer_logo",
+        "itemFilterParams": {
+          "mark": "KANONIR"
+        },
+        "year_from": 1999,
+        "year_to": 2001
+      },
+      {
+        "id": "KOMBAT",
+        "count": 0,
+        "cyrillic_name": "Комбат",
+        "popular": false,
+        "name": "Комбат",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160928c40337293649582717d5ac7/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160928c40337293649582717d5ac7/dealer_logo",
+        "itemFilterParams": {
+          "mark": "KOMBAT"
+        },
+        "year_from": 2000,
+        "year_to": 2021
+      },
+      {
+        "id": "LUAZ",
+        "count": 311,
+        "cyrillic_name": "ЛУАЗ",
+        "popular": false,
+        "name": "ЛуАЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919e57e8582a4a5247d1632c3c/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a00000160919e57e8582a4a5247d1632c3c/dealer_logo",
+        "itemFilterParams": {
+          "mark": "LUAZ"
+        },
+        "year_from": 1965,
+        "year_to": 2001
+      },
+      {
+        "id": "MOSCVICH",
+        "count": 729,
+        "cyrillic_name": "Москвич",
+        "popular": false,
+        "name": "Москвич",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608fbe60238030401fe00c963f07/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001608fbe60238030401fe00c963f07/dealer_logo",
+        "itemFilterParams": {
+          "mark": "MOSCVICH"
+        },
+        "year_from": 1946,
+        "year_to": 2002
+      },
+      {
+        "id": "SMZ",
+        "count": 21,
+        "cyrillic_name": "СМЗ",
+        "popular": false,
+        "name": "СМЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090350ebfa85b49b08a64889652/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000016090350ebfa85b49b08a64889652/dealer_logo",
+        "itemFilterParams": {
+          "mark": "SMZ"
+        },
+        "year_from": 1958,
+        "year_to": 1997
+      },
+      {
+        "id": "TAGAZ",
+        "count": 235,
+        "cyrillic_name": "ТагАЗ",
+        "popular": true,
+        "name": "ТагАЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609393cd3761440a8c5f1d04de41/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a000001609393cd3761440a8c5f1d04de41/dealer_logo",
+        "itemFilterParams": {
+          "mark": "TAGAZ"
+        },
+        "year_from": 2008,
+        "year_to": 2014
+      },
+      {
+        "id": "UAZ",
+        "count": 5721,
+        "cyrillic_name": "УАЗ",
+        "popular": true,
+        "name": "УАЗ",
+        "logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160939426ecc2c2c2ec5dc62a54f2/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/787013/2a00000160939426ecc2c2c2ec5dc62a54f2/dealer_logo",
+        "itemFilterParams": {
+          "mark": "UAZ"
+        },
+        "year_from": 1972,
+        "year_to": 2021
+      },
+      {
+        "id": "E_MOBIL",
+        "count": 0,
+        "cyrillic_name": "Ё-мобиль",
+        "popular": false,
+        "name": "Ё-мобиль",
+        "logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609796021f6ce244277560bbc282/logo",
+        "big-logo": "//avatars.mds.yandex.net/get-verba/1030388/2a000001609796021f6ce244277560bbc282/dealer_logo",
+        "itemFilterParams": {
+          "mark": "E_MOBIL"
+        },
+        "year_from": 2013,
+        "year_to": 2013
+      }
+    ],
+    "levelFilterParams": {},
+    "level": "MARK_LEVEL",
+    "meta_level": "MARK_LEVEL",
+    "offers_count": 390067
+  }
+]
